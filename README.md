@@ -216,7 +216,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## Contact
+For questions, suggestions, or collaborations, please contact the authors or open an issue on the GitHub repository. You can also reach out to the Tulane Hydroinformatics Lab at [https://hydroinformatics.tulane.edu/](https://hydroinformatics.tulane.edu/).
+
+---
+
 ## Acknowledgements
-This project is developed by the Tulane's Hydroinformatics Lab (): [https://hydroinformatics.tulane.edu/](https://hydroinformatics.tulane.edu/).
+This project is developed by the Tulane's Hydroinformatics Lab: [https://hydroinformatics.tulane.edu/](https://hydroinformatics.tulane.edu/).
 
 > Gonzalez, E., Sajja, R., Sermet, Y., & Demir, I. (2025). FloodSim Sandbox: An Immersive Interactive Simulation Framework for Urban Flood Risk Management.
