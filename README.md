@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Contact
-For questions, suggestions, or collaborations, please contact the authors or open an issue on the GitHub repository. You can also reach out to the Tulane Hydroinformatics Lab at [https://hydroinformatics.tulane.edu/](https://hydroinformatics.tulane.edu/).
+For questions, or suggestions, please contact the authors or open an issue on the GitHub repository. You can also reach out to the Tulane Hydroinformatics Lab at [https://hydroinformatics.tulane.edu/](https://hydroinformatics.tulane.edu/).
 
 ---
 
