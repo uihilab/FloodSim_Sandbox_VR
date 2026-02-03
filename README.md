@@ -83,6 +83,13 @@ VR-Flood-Sandbox is an Unreal Engine 5.3 project that provides an immersive virt
 
 ## Getting Started
 
+> [!IMPORTANT]
+> **Asset Availability:** This repository does not include the `.umap` level assets (Iowa City environment and configuration screen). For the complete version with all map assets, please contact the authors.
+>
+> **Why?**
+> - **Legal & Compliance**: Flood maps and city models may have licensing restrictions or institutional data-use agreements
+> - **Repository Size**: `.umap` files can be hundreds of MB, making cloning slow and Git diffs impractical
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/uihilab/VR-Flood-Sandbox.git
