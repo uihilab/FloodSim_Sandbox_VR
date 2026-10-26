@@ -1,0 +1,2 @@
+condition,n_responses,parse_rate,tier_accuracy,tier_accuracy_lo,tier_accuracy_hi,macro_f1,kappa_vs_truth,kappa_quadratic_vs_truth,dry_false_alarm_rate,dry_false_alarm_lo,dry_false_alarm_hi,underestimate_rate_tier2plus,feature_precision,feature_recall,depth_n,depth_mae_m,depth_bias_m
+C0,330,1.0,0.3333333333333333,0.18181818181818182,0.48484848484848486,0.23888888888888893,-0.12037037037037024,0.2576687116564417,1.0,1.0,1.0,0.8461538461538461,0.0,0.0,330,1.6415151515151516,-1.6415151515151516

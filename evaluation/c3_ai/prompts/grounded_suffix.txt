@@ -1,0 +1,4 @@
+
+
+Simulation state at the time of capture (JSON):
+{state_json}

@@ -1,0 +1,393 @@
+{
+ "A": {
+  "table": [
+   {
+    "scenario": "Normal (171 m3/s)",
+    "discharge_cfs": 6045.0,
+    "stage_05453520_manuscript_ft": 53.5,
+    "check_05453520_from_rating_ft": 53.5,
+    "stage_ft": 15.95,
+    "structure_usd": 0.0,
+    "content_usd": 0.0,
+    "total_usd": 0.0
+   },
+   {
+    "scenario": "Flood (568 m3/s)",
+    "discharge_cfs": 20068.0,
+    "stage_05453520_manuscript_ft": 60.83,
+    "check_05453520_from_rating_ft": 60.83,
+    "stage_ft": 24.93,
+    "structure_usd": 6880566.219999999,
+    "content_usd": 4191798.799999997,
+    "total_usd": 11072365.019999996
+   },
+   {
+    "scenario": "Extreme (705 m3/s)",
+    "discharge_cfs": 24922.0,
+    "stage_05453520_manuscript_ft": 63.0,
+    "check_05453520_from_rating_ft": 63.0,
+    "stage_ft": 26.9,
+    "structure_usd": 18086229.599999994,
+    "content_usd": 10441545.0,
+    "total_usd": 28527774.599999994
+   }
+  ],
+  "zero_damage_stage_structure_ft": 23.720369209413107,
+  "zero_damage_stage_content_ft": 23.60869136253885,
+  "structure_usd_per_ft": 5688154.0,
+  "content_usd_per_ft": 3172460.0
+ },
+ "B_filter_log": [
+  [
+   "all claims, both counties, all years",
+   1797
+  ],
+  [
+   "May-July 2008 (Iowa/Cedar River flood)",
+   808
+  ],
+  [
+   "single-family residential (occupancyType 1 or 11)",
+   628
+  ],
+  [
+   "not elevated",
+   585
+  ],
+  [
+   "1, 2, 3+ floors or split level",
+   581
+  ],
+  [
+   "waterDepth reported",
+   548
+  ],
+  [
+   "depth within Hazus curve domain (-4 to 24 ft)",
+   547
+  ],
+  [
+   "building damage > 0 and replacement cost > 0",
+   506
+  ],
+  [
+   "  of which basement status unknown (excluded from primary sample)",
+   86
+  ],
+  [
+   "  of which waterDepth exactly 0 (ambiguous; excluded from primary sample)",
+   96
+  ]
+ ],
+ "B_metrics": {
+  "Primary: both counties, replacement-cost basis": {
+   "n": 345.0,
+   "mean_observed_DR": 0.5737862865350962,
+   "mean_predicted_DR": 0.3423164251207729,
+   "bias_pred_minus_obs": -0.2314698614143233,
+   "MAE": 0.30883924082701425,
+   "RMSE": 0.38057062864083097,
+   "spearman_obs_vs_pred": -0.12518398300215142,
+   "aggregate_pred_over_obs_usd": 0.6753251296693199,
+   "bias_pred_minus_obs_CI95_lo": -0.26326253009988604,
+   "bias_pred_minus_obs_CI95_hi": -0.20025021204398638,
+   "MAE_CI95_lo": 0.28513475262190274,
+   "MAE_CI95_hi": 0.3324752879614147,
+   "RMSE_CI95_lo": 0.35542799998298824,
+   "RMSE_CI95_hi": 0.4037531893555327,
+   "spearman_obs_vs_pred_CI95_lo": -0.22967954793594453,
+   "spearman_obs_vs_pred_CI95_hi": -0.02001596964979165,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.6183034896953128,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.744450840350734,
+   "spearman_obs_vs_depth": -0.08426042422571972
+  },
+  "Including claims with waterDepth = 0": {
+   "n": 420.0,
+   "mean_observed_DR": 0.5567433228111972,
+   "mean_predicted_DR": 0.3117361111111111,
+   "bias_pred_minus_obs": -0.24500721170008607,
+   "MAE": 0.31633900556561634,
+   "RMSE": 0.3890206944880572,
+   "spearman_obs_vs_pred": -0.04912990798828432,
+   "aggregate_pred_over_obs_usd": 0.631378615420828,
+   "bias_pred_minus_obs_CI95_lo": -0.27436514290387953,
+   "bias_pred_minus_obs_CI95_hi": -0.21522211899899749,
+   "MAE_CI95_lo": 0.29447154264201897,
+   "MAE_CI95_hi": 0.3385771346594206,
+   "RMSE_CI95_lo": 0.36616179950026856,
+   "RMSE_CI95_hi": 0.4101053429417582,
+   "spearman_obs_vs_pred_CI95_lo": -0.13524877785157136,
+   "spearman_obs_vs_pred_CI95_hi": 0.048115128188869684,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.5790647153617761,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.6899757932278141,
+   "spearman_obs_vs_depth": 0.04059500388583458
+  },
+  "Johnson County only (Iowa City, Coralville)": {
+   "n": 21.0,
+   "mean_observed_DR": 0.4203106904419273,
+   "mean_predicted_DR": 0.2899999999999999,
+   "bias_pred_minus_obs": -0.1303106904419273,
+   "MAE": 0.25512303252600493,
+   "RMSE": 0.31991954961652935,
+   "spearman_obs_vs_pred": -0.23846658705297782,
+   "aggregate_pred_over_obs_usd": 0.8439370302868472,
+   "bias_pred_minus_obs_CI95_lo": -0.25611811528914896,
+   "bias_pred_minus_obs_CI95_hi": -0.007834341439256026,
+   "MAE_CI95_lo": 0.17632495237533738,
+   "MAE_CI95_hi": 0.3405137281662168,
+   "RMSE_CI95_lo": 0.23500374689447814,
+   "RMSE_CI95_hi": 0.39830254545119886,
+   "spearman_obs_vs_pred_CI95_lo": -0.6605516755227477,
+   "spearman_obs_vs_pred_CI95_hi": 0.28299630104319906,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.5796582266538551,
+   "aggregate_pred_over_obs_usd_CI95_hi": 1.1786284787436707,
+   "spearman_obs_vs_depth": -0.3677197955452656
+  },
+  "Linn County only (Cedar Rapids)": {
+   "n": 324.0,
+   "mean_observed_DR": 0.5837337788744683,
+   "mean_predicted_DR": 0.34570730452674897,
+   "bias_pred_minus_obs": -0.2380264743477193,
+   "MAE": 0.3123208469205982,
+   "RMSE": 0.3841714359981243,
+   "spearman_obs_vs_pred": -0.1350652364109907,
+   "aggregate_pred_over_obs_usd": 0.6631167516426429,
+   "bias_pred_minus_obs_CI95_lo": -0.2709326529887007,
+   "bias_pred_minus_obs_CI95_hi": -0.2047306649031341,
+   "MAE_CI95_lo": 0.28848688521712473,
+   "MAE_CI95_hi": 0.33599483349953757,
+   "RMSE_CI95_lo": 0.3583423575806503,
+   "RMSE_CI95_hi": 0.4084870213301201,
+   "spearman_obs_vs_pred_CI95_lo": -0.2450642631500615,
+   "spearman_obs_vs_pred_CI95_hi": -0.03096950095950938,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.6054240196299309,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.7331888060172358,
+   "spearman_obs_vs_depth": -0.10102807410000182
+  },
+  "Riverine overflow only (causeOfDamage 2)": {
+   "n": 289.0,
+   "mean_observed_DR": 0.5855879605021691,
+   "mean_predicted_DR": 0.3561822376009227,
+   "bias_pred_minus_obs": -0.2294057229012464,
+   "MAE": 0.3169590122016878,
+   "RMSE": 0.39211148154186815,
+   "spearman_obs_vs_pred": -0.2259361126487146,
+   "aggregate_pred_over_obs_usd": 0.6981775887458201,
+   "bias_pred_minus_obs_CI95_lo": -0.26577095891578806,
+   "bias_pred_minus_obs_CI95_hi": -0.19270786195098144,
+   "MAE_CI95_lo": 0.2902852163549239,
+   "MAE_CI95_hi": 0.34459652563251125,
+   "RMSE_CI95_lo": 0.36352878235520886,
+   "RMSE_CI95_hi": 0.4191569143160904,
+   "spearman_obs_vs_pred_CI95_lo": -0.3393546876079344,
+   "spearman_obs_vs_pred_CI95_hi": -0.11123055042050294,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.631438670605109,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.7817608765147045,
+   "spearman_obs_vs_depth": -0.19481747741987357
+  },
+  "Actual-cash-value basis": {
+   "n": 345.0,
+   "mean_observed_DR": 0.703160963004046,
+   "mean_predicted_DR": 0.3423164251207729,
+   "bias_pred_minus_obs": -0.360844537883273,
+   "MAE": 0.3995032015982853,
+   "RMSE": 0.4718876589255452,
+   "spearman_obs_vs_pred": -0.06800909487006032,
+   "aggregate_pred_over_obs_usd": 0.5234645028644435,
+   "bias_pred_minus_obs_CI95_lo": -0.39408385108141797,
+   "bias_pred_minus_obs_CI95_hi": -0.32788555136702985,
+   "MAE_CI95_lo": 0.37289581715990167,
+   "MAE_CI95_hi": 0.4273516028937862,
+   "RMSE_CI95_lo": 0.44603150839045913,
+   "RMSE_CI95_hi": 0.4965946111752509,
+   "spearman_obs_vs_pred_CI95_lo": -0.17204128219569476,
+   "spearman_obs_vs_pred_CI95_hi": 0.0398691562249936,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.48192121184767106,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.5650785964443715,
+   "spearman_obs_vs_depth": -0.02022083618132075
+  },
+  "Above-first-floor depths only (depth >= 0)": {
+   "n": 341.0,
+   "mean_observed_DR": 0.5787013759549622,
+   "mean_predicted_DR": 0.34434750733137826,
+   "bias_pred_minus_obs": -0.2343538686235839,
+   "MAE": 0.3113557637187817,
+   "RMSE": 0.3826309492765237,
+   "spearman_obs_vs_pred": -0.14839818264467566,
+   "aggregate_pred_over_obs_usd": 0.6709840313143304,
+   "bias_pred_minus_obs_CI95_lo": -0.26704419524042405,
+   "bias_pred_minus_obs_CI95_hi": -0.20380347824077585,
+   "MAE_CI95_lo": 0.2877283407374133,
+   "MAE_CI95_hi": 0.33610331426677387,
+   "RMSE_CI95_lo": 0.3582910846922174,
+   "RMSE_CI95_hi": 0.40736515389715,
+   "spearman_obs_vs_pred_CI95_lo": -0.2523303796980754,
+   "spearman_obs_vs_pred_CI95_hi": -0.04094129852011975,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.6116809250812325,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.7372924048485352,
+   "spearman_obs_vs_depth": -0.11920956753981843
+  },
+  "Excluding 0-1 ft depths (possible feet-as-inches entries)": {
+   "n": 205.0,
+   "mean_observed_DR": 0.5326028438964253,
+   "mean_predicted_DR": 0.45576829268292685,
+   "bias_pred_minus_obs": -0.07683455121349846,
+   "MAE": 0.20194176763146868,
+   "RMSE": 0.2466775514656061,
+   "spearman_obs_vs_pred": 0.14144408012987036,
+   "aggregate_pred_over_obs_usd": 0.9474726970260131,
+   "bias_pred_minus_obs_CI95_lo": -0.10734839675947418,
+   "bias_pred_minus_obs_CI95_hi": -0.04671394693765432,
+   "MAE_CI95_lo": 0.18357880094586213,
+   "MAE_CI95_hi": 0.2216173774590421,
+   "RMSE_CI95_lo": 0.22484286081344793,
+   "RMSE_CI95_hi": 0.267757439598938,
+   "spearman_obs_vs_pred_CI95_lo": -0.001429685491935253,
+   "spearman_obs_vs_pred_CI95_hi": 0.27737707510125503,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.8660970864933836,
+   "aggregate_pred_over_obs_usd_CI95_hi": 1.048132467741127,
+   "spearman_obs_vs_depth": 0.11297927311410061
+  },
+  "Unknown basement assigned basement": {
+   "n": 410.0,
+   "mean_observed_DR": 0.5719075653270809,
+   "mean_predicted_DR": 0.3511788617886179,
+   "bias_pred_minus_obs": -0.22072870353846308,
+   "MAE": 0.3060585788719468,
+   "RMSE": 0.37731923701471276,
+   "spearman_obs_vs_pred": -0.111250264195336,
+   "aggregate_pred_over_obs_usd": 0.6817763371024258,
+   "bias_pred_minus_obs_CI95_lo": -0.24939547934331036,
+   "bias_pred_minus_obs_CI95_hi": -0.1921707152004129,
+   "MAE_CI95_lo": 0.2862157208430291,
+   "MAE_CI95_hi": 0.3264261392406739,
+   "RMSE_CI95_lo": 0.35651767083166336,
+   "RMSE_CI95_hi": 0.398268383807063,
+   "spearman_obs_vs_pred_CI95_lo": -0.2024198717599515,
+   "spearman_obs_vs_pred_CI95_hi": -0.01900550960707261,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.6269626596152518,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.7412573287840918,
+   "spearman_obs_vs_depth": -0.07024058773018142
+  },
+  "Unknown basement assigned no basement": {
+   "n": 410.0,
+   "mean_observed_DR": 0.5719075653270809,
+   "mean_predicted_DR": 0.33369105691056916,
+   "bias_pred_minus_obs": -0.2382165084165119,
+   "MAE": 0.3126162199590987,
+   "RMSE": 0.3874497398818967,
+   "spearman_obs_vs_pred": -0.11095699500728508,
+   "aggregate_pred_over_obs_usd": 0.6506871231629552,
+   "bias_pred_minus_obs_CI95_lo": -0.27086255910844725,
+   "bias_pred_minus_obs_CI95_hi": -0.2092954030001875,
+   "MAE_CI95_lo": 0.2899868147026494,
+   "MAE_CI95_hi": 0.33619118216249094,
+   "RMSE_CI95_lo": 0.3636973949673907,
+   "RMSE_CI95_hi": 0.4115697402236816,
+   "spearman_obs_vs_pred_CI95_lo": -0.2135004937095962,
+   "spearman_obs_vs_pred_CI95_hi": -0.011095268033095617,
+   "aggregate_pred_over_obs_usd_CI95_lo": 0.5967408581467911,
+   "aggregate_pred_over_obs_usd_CI95_hi": 0.7118119238494283,
+   "spearman_obs_vs_depth": -0.07024058773018142
+  }
+ },
+ "B_other": {
+  "claims_with_DR_above_1_capped": 0,
+  "spearman_obs_vs_depth_p": 0.11824862471733162,
+  "claims_2008_with_contents_damage": 133,
+  "claims_2008_with_contents_value_reported": 0
+ },
+ "C_curve_families": {
+  "FIA": {
+   "factor": 0.817278567285027,
+   "classes_covered": 8,
+   "curve_ids": [
+    105,
+    107,
+    109,
+    111,
+    121,
+    122,
+    123,
+    124
+   ]
+  },
+  "FIA (MOD.)": {
+   "factor": 0.9934065657670491,
+   "classes_covered": 4,
+   "curve_ids": [
+    106,
+    108,
+    110,
+    112
+   ]
+  },
+  "USACE - IWR": {
+   "factor": 1.0022588208763428,
+   "classes_covered": 3,
+   "curve_ids": [
+    129,
+    130,
+    131
+   ]
+  },
+  "USACE - Chicago": {
+   "factor": 0.7915587511143969,
+   "classes_covered": 6,
+   "curve_ids": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137
+   ]
+  },
+  "USACE - St. Paul": {
+   "factor": 0.9982460319941237,
+   "classes_covered": 2,
+   "curve_ids": [
+    173,
+    174
+   ]
+  },
+  "USACE - Wilmington": {
+   "factor": 0.984383247893907,
+   "classes_covered": 4,
+   "curve_ids": [
+    175,
+    178,
+    181,
+    182
+   ]
+  },
+  "BCAR - Jan 2011": {
+   "factor": 1.0,
+   "classes_covered": 1,
+   "curve_ids": [
+    704
+   ]
+  }
+ },
+ "D_osm_coverage": {
+  "osm_buildings_in_bbox": 60,
+  "with_height_tag": 0,
+  "with_levels_tag": 4,
+  "bbox_s_w_n_e": [
+   41.65105571700008,
+   -91.54190014999995,
+   41.662099460000036,
+   -91.53646579899998
+  ]
+ },
+ "default_curves": {
+  "1N": "R11N USACE - IWR: one story, no basement, Structure",
+  "1B": "R11B BCAR - Jan 2011: one story, w/ basement, Structure  (B14)",
+  "2N": "R12N FIA: two floors, no basement, Structure, A-Zone",
+  "2B": "R12B FIA (MOD.): two floors, w/ basement, Structure, A-Zone",
+  "3N": "R13N FIA: three or more floors, no basement, Structure, A-Zone",
+  "3B": "R13B FIA (MOD.): three or more floors, w/ basement, Structure, A-Zone",
+  "SN": "R1SN FIA: split level, no basement, Structure, A-Zone",
+  "SB": "R1SB FIA (MOD.): split level, w/ basement, Structure, A-Zone"
+ }
+}

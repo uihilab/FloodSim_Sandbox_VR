@@ -1,0 +1,14 @@
+You are coding the content of a flood-response recommendation written by another AI system. You do not judge whether it is good; you only record what it contains.
+
+ACTION CATEGORIES (mark 1 if the text recommends at least one action of this kind, else 0):
+{taxonomy}
+
+NAMED LOCATIONS: list every specific named place, street, bridge, building, facility, or identifier (for example "Riverside Drive", "Building A34", "Mercy Hospital") that the text mentions. Do not include generic phrases such as "the river", "low-lying areas", "downtown", "nearby buildings", or "Iowa City" itself.
+
+Return a single JSON object:
+{{"categories": {{<category_key>: 0 or 1, ...for every key above}}, "named_locations": [<strings>]}}
+
+TEXT TO CODE:
+<<<
+{text}
+>>>

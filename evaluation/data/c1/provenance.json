@@ -1,0 +1,37 @@
+{
+  "retrieved_utc": "2026-10-23T16:46:44.493855+00:00",
+  "domain_wgs84": [
+    -91.548,
+    41.646,
+    -91.531,
+    41.668
+  ],
+  "domain_utm15n": [
+    620917,
+    4611491,
+    622291,
+    4613958
+  ],
+  "dem": {
+    "source": "USGS 3DEP 1/3 arc-second and 1 m composite, ImageServer exportImage",
+    "url": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer/exportImage",
+    "params": {
+      "bbox": "620917,4611491,622291,4613958",
+      "bboxSR": 26915,
+      "imageSR": 26915,
+      "size": "1374,2467",
+      "format": "tiff",
+      "pixelType": "F32",
+      "noDataInterpretation": "esriNoDataMatchAny",
+      "interpolation": "RSP_BilinearInterpolation",
+      "f": "image"
+    },
+    "file": "dem_3dep_1m_utm15n.tif"
+  },
+  "osm": {
+    "source": "OpenStreetMap contributors via Overpass API (ODbL)",
+    "url": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:120];\n(\n  way[\"building\"](41.646,-91.548,41.668,-91.531);\n  relation[\"building\"](41.646,-91.548,41.668,-91.531);\n  way[\"natural\"=\"water\"](41.646,-91.548,41.668,-91.531);\n  relation[\"natural\"=\"water\"](41.646,-91.548,41.668,-91.531);\n  way[\"waterway\"=\"riverbank\"](41.646,-91.548,41.668,-91.531);\n  way[\"waterway\"=\"river\"](41.646,-91.548,41.668,-91.531);\n);\nout geom;",
+    "file": "osm_buildings_water.json"
+  }
+}

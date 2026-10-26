@@ -1,0 +1,5 @@
+,pred_none,pred_normal,pred_flood,pred_extreme
+true_none,30,0,0,0
+true_normal,41,19,0,0
+true_flood,62,58,0,0
+true_extreme,80,39,1,0

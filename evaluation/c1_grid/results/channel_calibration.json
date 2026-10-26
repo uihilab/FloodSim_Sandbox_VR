@@ -1,0 +1,31 @@
+{
+  "burn_m": 1.721,
+  "gage": "USGS 05454500 Iowa River at Iowa City",
+  "calibrated_on": "normal 171 m3/s, 1 m grid",
+  "validation": [
+    {
+      "discharge": "normal",
+      "Q_m3s": 171.0,
+      "rating_stage_m": 192.95333616455696,
+      "model_stage_m": 192.95449430861166,
+      "error_m": 0.0011581440546990507,
+      "role": "calibration"
+    },
+    {
+      "discharge": "flood",
+      "Q_m3s": 568.0,
+      "rating_stage_m": 195.69122004621312,
+      "model_stage_m": 195.3845943919628,
+      "error_m": -0.3066256542503254,
+      "role": "validation"
+    },
+    {
+      "discharge": "extreme",
+      "Q_m3s": 705.0,
+      "rating_stage_m": 196.29117414957597,
+      "model_stage_m": 195.84151191630056,
+      "error_m": -0.44966223327540433,
+      "role": "validation"
+    }
+  ]
+}

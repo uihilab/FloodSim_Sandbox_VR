@@ -1,0 +1,1 @@
+Here is the simulation state of a simulated flood in downtown Iowa City. Please inspect the data and recommend flood mitigation strategies that are specific to the presented scenario.

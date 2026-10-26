@@ -1,0 +1,15 @@
+marker,type,location_x_uu,location_y_uu,location_z_uu,pitch,yaw,roll,fov_or_ortho_width,description
+CAM1,camera,,,,,,,,aerial view used for Figure 8
+CAM2,camera,,,,,,,,Riverside Drive street level
+CAM3,camera,,,,,,,,Iowa Memorial Union riverfront
+CAM4,camera,,,,,,,,Burlington Street bridge approach
+CAM5,camera,,,,,,,,second bridge or underpass
+CAM6,camera,,,,,,,,downtown street expected dry at 568 m3/s
+PRB1,probe,,,,,,,,
+PRB2,probe,,,,,,,,
+PRB3,probe,,,,,,,,
+PRB4,probe,,,,,,,,
+PRB5,probe,,,,,,,,
+PRB6,probe,,,,,,,,
+PRB7,probe,,,,,,,,
+PRB8,probe,,,,,,,,

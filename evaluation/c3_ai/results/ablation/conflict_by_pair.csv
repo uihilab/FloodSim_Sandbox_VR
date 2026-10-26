@@ -1,0 +1,10 @@
+model,pair,probe_reports_overbank,probe_mean_tier,K_notes_conflict,K_evacuation
+gpt-4o-mini,dry image + record2008 data,1.0,2.33,0.0,0.27
+gpt-4o-mini,normal image + record2008 data,1.0,2.33,0.0,0.3
+gpt-4o-mini,record2008 image + normal data,0.33,1.33,0.0,0.17
+gpt-5.6-terra,dry image + record2008 data,1.0,2.0,0.03,0.63
+gpt-5.6-terra,normal image + record2008 data,1.0,2.0,0.03,0.43
+gpt-5.6-terra,record2008 image + normal data,0.93,1.93,0.0,0.07
+gpt-6.1-sol,dry image + record2008 data,1.0,2.0,0.37,0.57
+gpt-6.1-sol,normal image + record2008 data,1.0,2.0,0.67,0.63
+gpt-6.1-sol,record2008 image + normal data,1.0,2.0,0.6,0.03

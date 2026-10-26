@@ -1,0 +1,20 @@
+comparison,metric,n_scenes,mean_first,mean_second,test,p_value
+A vs B,expected_coverage (scene mean),30,0.39845238095238084,0.45333333333333325,Wilcoxon signed-rank,0.03508453490324107
+A vs C1,expected_coverage (scene mean),30,0.39845238095238084,0.19,Wilcoxon signed-rank,0.00011326796150949359
+C0 vs C1,expected_coverage (scene mean),30,0.17559523809523808,0.19,Wilcoxon signed-rank,0.3078581089740495
+A vs B,any_inappropriate (scene mean),33,0.12424242424242424,0.1,Wilcoxon signed-rank,0.039359508888249725
+A vs C1,any_inappropriate (scene mean),33,0.12424242424242424,0.015151515151515152,Wilcoxon signed-rank,0.012304682840117041
+C0 vs C1,any_inappropriate (scene mean),33,0.05151515151515152,0.015151515151515152,Wilcoxon signed-rank,0.15729920705028502
+A vs B,n_high_severity (scene mean),33,0.23636363636363636,0.43939393939393945,Wilcoxon signed-rank,0.0005195607449500062
+A vs C1,n_high_severity (scene mean),33,0.23636363636363636,0.1484848484848485,Wilcoxon signed-rank,0.0045901145082283355
+C0 vs C1,n_high_severity (scene mean),33,0.3909090909090909,0.1484848484848485,Wilcoxon signed-rank,0.0007542769153209632
+A vs B,any_unverified (scene mean),33,0.0,0.0,Wilcoxon signed-rank,
+A vs C1,any_unverified (scene mean),33,0.0,0.0,Wilcoxon signed-rank,
+C0 vs C1,any_unverified (scene mean),33,0.0,0.0,Wilcoxon signed-rank,
+A vs B,latency_s (scene mean),33,4.338425151515152,4.255280303030304,Wilcoxon signed-rank,0.3214736534282565
+A vs C1,latency_s (scene mean),33,4.338425151515152,1.9049457575757576,Wilcoxon signed-rank,2.3283064365386963e-10
+C0 vs C1,latency_s (scene mean),33,1.9176739393939393,1.9049457575757576,Wilcoxon signed-rank,0.6591820653993636
+A vs B,completion_tokens (scene mean),33,299.469696969697,300.0,Wilcoxon signed-rank,0.017960477526078766
+A vs C1,completion_tokens (scene mean),33,299.469696969697,44.29090909090909,Wilcoxon signed-rank,5.330235431590946e-07
+C0 vs C1,completion_tokens (scene mean),33,44.830303030303035,44.29090909090909,Wilcoxon signed-rank,0.7799117171773321
+C0 vs C1,modal tier correct (per scene),33,0.15151515151515152,0.15151515151515152,"exact McNemar (b=0, c=0)",

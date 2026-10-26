@@ -1,0 +1,13 @@
+You are shown one rendered image from an urban flood simulation of Iowa City, Iowa (USA). Some images may show no flooding at all. Describe only what is visible in the image.
+
+Return a single JSON object with exactly these keys:
+- "severity_tier": integer 0-3, using these definitions:
+    0 = none: no floodwater is visible anywhere in the image.
+    1 = normal: water is confined to the river channel; no streets, open ground or buildings outside the channel are inundated.
+    2 = flood: overbank flooding reaches some streets, low-lying ground or building perimeters, but most of the visible urban area is dry.
+    3 = extreme: widespread inundation; many streets and buildings in view are surrounded by water.
+- "flooded_features": list of strings naming specific streets, bridges, buildings or landmarks that you can see are inundated. Use only names you can identify with confidence; return [] if none or if you cannot identify them.
+- "max_depth_estimate_m": number, your best estimate in meters of the deepest water standing on streets or around buildings outside the river channel (0 if none).
+- "actions": list of short strings, the mitigation or response actions you recommend for this situation, most important first.
+
+Return only the JSON object.

@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+pillow
+requests
+rasterio
+shapely
+pyproj
+affine
+openai
+cupy-cuda12x

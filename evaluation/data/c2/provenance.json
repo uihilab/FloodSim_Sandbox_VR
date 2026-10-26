@@ -1,0 +1,64 @@
+{
+  "retrieved_utc": "2026-10-23T16:46:33.578684+00:00",
+  "nfip": [
+    {
+      "url": "https://www.fema.gov/api/open/v3/NfipClaims",
+      "filter": "countyCode eq '19103'",
+      "county": "Johnson",
+      "file": "nfip_claims_johnson_county_IA.json",
+      "rows": 446,
+      "reported_count": 446,
+      "rows_2008": 181
+    },
+    {
+      "url": "https://www.fema.gov/api/open/v3/NfipClaims",
+      "filter": "countyCode eq '19113'",
+      "county": "Linn",
+      "file": "nfip_claims_linn_county_IA.json",
+      "rows": 1351,
+      "reported_count": 1351,
+      "rows_2008": 639
+    }
+  ],
+  "hazus_fast": {
+    "repo": "https://github.com/nhrap-hazus/FAST",
+    "commit": "8e285a9daf7bc762c171c68fb81c4daeedf46efc",
+    "files": [
+      {
+        "url": "https://raw.githubusercontent.com/nhrap-hazus/FAST/8e285a9daf7bc762c171c68fb81c4daeedf46efc/Lookuptables/Building_DDF_Riverine_LUT_Hazus4p0.csv",
+        "file": "Building_DDF_Riverine_LUT_Hazus4p0.csv",
+        "bytes": 33699,
+        "lines": 197
+      },
+      {
+        "url": "https://raw.githubusercontent.com/nhrap-hazus/FAST/8e285a9daf7bc762c171c68fb81c4daeedf46efc/Lookuptables/Content_DDF_Riverine_LUT_Hazus4p0.csv",
+        "file": "Content_DDF_Riverine_LUT_Hazus4p0.csv",
+        "bytes": 37054,
+        "lines": 197
+      },
+      {
+        "url": "https://raw.githubusercontent.com/nhrap-hazus/FAST/8e285a9daf7bc762c171c68fb81c4daeedf46efc/Lookuptables/flBldgStructDmgFn.csv",
+        "file": "flBldgStructDmgFn.csv",
+        "bytes": 98616,
+        "lines": 598
+      },
+      {
+        "url": "https://raw.githubusercontent.com/nhrap-hazus/FAST/8e285a9daf7bc762c171c68fb81c4daeedf46efc/Lookuptables/flBldgContDmgFn.csv",
+        "file": "flBldgContDmgFn.csv",
+        "bytes": 86626,
+        "lines": 508
+      },
+      {
+        "url": "https://raw.githubusercontent.com/nhrap-hazus/FAST/8e285a9daf7bc762c171c68fb81c4daeedf46efc/Lookuptables/DefaultDDFAssignmentTables.xlsx",
+        "file": "DefaultDDFAssignmentTables.xlsx",
+        "bytes": 36044,
+        "lines": null
+      }
+    ]
+  },
+  "osm": {
+    "url": "https://overpass.kumi.systems/api/interpreter",
+    "query": "[out:json][timeout:90];way[\"building\"](41.65105571700008,-91.54190014999995,41.662099460000036,-91.53646579899998);out tags center;",
+    "rows": 60
+  }
+}

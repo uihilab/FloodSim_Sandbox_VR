@@ -1,0 +1,17 @@
+{
+  "retrieved_utc": "2026-10-23T16:59:16.323476+00:00",
+  "naip": {
+    "source": "USDA NAIP via USGS The National Map ImageServer",
+    "url": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer/exportImage",
+    "params": {
+      "px": 0.5,
+      "tile": 1000,
+      "bandIds": "0,1,2"
+    }
+  },
+  "osm": {
+    "source": "OpenStreetMap contributors via Overpass (ODbL)",
+    "url": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:120];\n(\n  way[\"highway\"][\"name\"](41.646,-91.548,41.668,-91.531);\n  way[\"building\"][\"name\"](41.646,-91.548,41.668,-91.531);\n  relation[\"building\"][\"name\"](41.646,-91.548,41.668,-91.531);\n  way[\"leisure\"][\"name\"](41.646,-91.548,41.668,-91.531);\n  way[\"amenity\"][\"name\"](41.646,-91.548,41.668,-91.531);\n);\nout geom;"
+  }
+}

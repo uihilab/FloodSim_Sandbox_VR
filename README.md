@@ -218,6 +218,12 @@ Contributions are welcome! Please open an issue or pull request. For major chang
 
 ---
 
+## Evaluation
+
+The [`evaluation/`](./evaluation) folder contains the scripts, inputs and outputs of the grid-resolution sensitivity analysis, the validation of the HAZUS-based damage estimates, and the technical evaluation and input ablation of the AI module. See [`evaluation/README.md`](./evaluation/README.md).
+
+---
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

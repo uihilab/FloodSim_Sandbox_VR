@@ -1,0 +1,122 @@
+{
+  "probe_overbank": {
+    "responses_on_overbank_scenes": 260,
+    "detected": 0,
+    "responses_on_other_scenes": 400,
+    "false_reports": 1
+  },
+  "probe_tier_counts_by_scenario": {
+    "0.0": {
+      "dry": 60,
+      "extreme": 93,
+      "flood": 111,
+      "normal": 81,
+      "record2008": 60
+    },
+    "1.0": {
+      "dry": 0,
+      "extreme": 27,
+      "flood": 129,
+      "normal": 39,
+      "record2008": 59
+    },
+    "2.0": {
+      "dry": 0,
+      "extreme": 0,
+      "flood": 0,
+      "normal": 0,
+      "record2008": 1
+    }
+  },
+  "probe_tier_vs_discharge_spearman": {
+    "rho": 0.013059357316250061,
+    "p": 0.7495489556475888,
+    "n": 600
+  },
+  "escalation": {
+    "A": {
+      "high_severity_per_response": {
+        "dry": 0.267,
+        "extreme": 0.233,
+        "flood": 0.25,
+        "normal": 0.283,
+        "record2008": 0.15
+      },
+      "evacuation_share": {
+        "dry": 0.033,
+        "extreme": 0.15,
+        "flood": 0.158,
+        "normal": 0.15,
+        "record2008": 0.1
+      },
+      "truncated_share": 0.9757575757575757,
+      "scene_high_severity_vs_discharge_spearman": {
+        "rho": -0.28800988006039124,
+        "p": 0.12273941509951124
+      }
+    },
+    "B": {
+      "high_severity_per_response": {
+        "dry": 0.333,
+        "extreme": 0.533,
+        "flood": 0.567,
+        "normal": 0.133,
+        "record2008": 0.45
+      },
+      "evacuation_share": {
+        "dry": 0.2,
+        "extreme": 0.267,
+        "flood": 0.308,
+        "normal": 0.05,
+        "record2008": 0.25
+      },
+      "truncated_share": 1.0,
+      "scene_high_severity_vs_discharge_spearman": {
+        "rho": 0.38010679529186353,
+        "p": 0.03826913709650239
+      }
+    },
+    "C0": {
+      "high_severity_per_response": {
+        "dry": 0.0,
+        "extreme": 0.3,
+        "flood": 0.542,
+        "normal": 0.283,
+        "record2008": 0.483
+      },
+      "evacuation_share": {
+        "dry": 0.0,
+        "extreme": 0.3,
+        "flood": 0.542,
+        "normal": 0.283,
+        "record2008": 0.483
+      },
+      "truncated_share": 0.0,
+      "scene_high_severity_vs_discharge_spearman": {
+        "rho": 0.056606690382590766,
+        "p": 0.7663814182046756
+      }
+    },
+    "C1": {
+      "high_severity_per_response": {
+        "dry": 0.0,
+        "extreme": 0.083,
+        "flood": 0.183,
+        "normal": 0.1,
+        "record2008": 0.267
+      },
+      "evacuation_share": {
+        "dry": 0.0,
+        "extreme": 0.083,
+        "flood": 0.1,
+        "normal": 0.083,
+        "record2008": 0.167
+      },
+      "truncated_share": 0.0,
+      "scene_high_severity_vs_discharge_spearman": {
+        "rho": 0.12085879765194553,
+        "p": 0.5246581902098865
+      }
+    }
+  }
+}

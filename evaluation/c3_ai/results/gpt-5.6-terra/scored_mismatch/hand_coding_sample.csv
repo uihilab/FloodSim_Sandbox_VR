@@ -1,0 +1,1263 @@
+item_id,text,monitor_assess,road_closure,evacuation,barriers,pumping,utilities,rescue_staging,drainage,debris,shelter,critical_facilities,public_comm,long_term
+item_0000,"Close and barricade inundated sections of Highway 6 East and West Benton Street
+Close Hancher Footbridge and the Iowa River Corridor Trail
+Restrict access to the C. Maxwell Hydraulics Laboratory and protect critical equipment
+Monitor Iowa River levels and issue public flood-safety updates
+Inspect flooded infrastructure for damage before reopening",,,,,,,,,,,,,
+item_0001,"At the captured condition, this appears to be **very limited, shallow overbank flooding confined to the Iowa River edge**: maximum modeled depth outside the mapped channel is only **0.22 m (~9 in)**, only **0.18% of the viewed area** is inundated, and no infrastructure is identified as inundated. The immediate priority is therefore **preventing small river-edge overtopping or backflow from becoming a downtown access and building-entry problem**, rather than constructing major new barriers for this event level.
+
+### Near-term actions for this location
+
+- **Keep people out of the river-edge paths and low terraces.** Close or post warnings at the riverside walkways, landscaped edge, and any low access ramps near the bridge/building frontage. Even shallow water can conceal slippery pavement, drop-offs, and strong currents near the channel.
+
+- **Inspect the low riverfront curb/sidewalk transitions around the central river-adjacent buildings.** The image shows several potential low points where water could move from the riverwalk/river edge toward paved service areas and building entries. Place temporary water-filled barriers, sandbags, or modular flood panels only across these short, low connections if water approaches them.
+
+- **Protect basement and loading/service entrances first.** For the large buildings immediately east of the river, verify that basement doors, utility vaults, loading doors, elevator pits, and below-grade vents are sealed or fitted with temporary covers. At this shallow flood depth, these features are usually more vulnerable than upper-floor entrances.
+
+- **Check storm-drain outfalls and manholes near the riverfront.** Rising river stage can reverse flow through storm sewers before widespread surface flooding occurs. Close/inspect flap gates where present; use temporary plugs or covers only where operationally appropriate; and station pumps at known low spots if water begins to pond behind the river edge.
+
+- **Maintain vehicle access on the inland street grid.** The north–south and east–west streets east of the river appear dry in the simulation. Keep these routes clear for emergency access, but restrict parking and staging near the riverfront curb and bridge approaches so barriers, pumps, and emergency vehicles can move quickly.
+
+### Recommended trigger-based response
+
+Use the **USGS 05454500 Iowa River at Iowa City** gage as the operational trigger, but calibrate actions using local observed flood elevations and Iowa City/University emergency procedures rather than relying on this single simulated snapshot.
+
+A practical staged approach:
+
+1. **Current/alert stage — 15.95 ft, discharge ~171 m³/s**
+   - Inspect riverfront paths, drains, and building-level openings.
+   - Notify adjacent facility managers.
+   - Pre-position barriers, pumps, signage, and staff.
+   - Close low recreational river access if rising trends continue.
+
+2. **Rising-stage action trigger**
+   - Deploy short runs of temporary barriers at identified low riverfront transitions.
+   - Install door shields or sandbags at vulnerable service/basement openings.
+   - Begin recurring drain and manhole inspections.
+   - Relocate vehicles, portable equipment, and hazardous materials from low river-adjacent areas.
+
+3. **Escalation trigger**
+   - Close river-adjacent sidewalks, low bridge approaches, and any street segment where water reaches pavement.
+   - Activate pumping/backflow-control plans.
+   - Restrict building access at affected loading and service areas.
+   - Coordinate traffic diversions before water reaches intersections rather than after inundation occurs.
+
+### Longer-term mitigation suited to this block
+
+- **Install or upgrade backflow prevention** on storm sewer connections near the Iowa River, including flap gates/check valves where hydraulically appropriate. This is likely to provide high value for shallow river-stage events.
+
+- **Use deployable flood protection rather than a continuous permanent wall** along this frontage. Because the modeled inundation is currently very limited, targeted barriers at low entry points can reduce risk while preserving river views, pedestrian access, and downtown character.
+
+- **Raise or floodproof critical building systems** in the river-adjacent structures: electrical switchgear, backup generators, telecom equipment, HVAC controls, fuel systems, and elevator controls should be above expected flood elevations or protected in watertight enclosures.
+
+- **Improve river-edge grading and drainage.** Small swales, curb regrading, trench drains, and raised thresholds can direct shallow overtopping away from buildings and toward controlled collection/pumping points.
+
+- **Preserve the vegetated/open river margin and avoid filling it.** The green space and river-edge buffer provide storage and reduce direct exposure. Future redevelopment should avoid adding vulnerable ground-floor uses or below-grade spaces closest to the river.
+
+- **Develop site-specific flood depth maps for entrances and utilities.** The broad-area metric indicates low overall impact, but a few inches of water can still affect a particular door, drain, or electrical room. Surveying these elevations will make the gage-trigger plan much more reliable.
+
+In short: for the depicted event, prioritize **monitoring, riverwalk closure, drainage/backflow control, and temporary protection of low building and service openings**. Major permanent defenses should be evaluated only against higher-stage scenarios that show water leaving the river corridor and reaching streets or structures.",,,,,,,,,,,,,
+item_0002,"Close and barricade inundated sections of West Burlington Street and the Iowa River Corridor Trail.
+Evacuate or restrict access to the C. Maxwell Hydraulics Laboratory and Hydraulics East Annex; isolate vulnerable electrical and mechanical systems.
+Keep people and vehicles out of floodwater and establish detours around Lot 7 and affected riverfront access.
+Monitor Iowa River stage and inspect bridge approaches, building perimeters, and utilities for erosion or damage.",,,,,,,,,,,,,
+item_0003,"Restrict access to the C. Maxwell Hydraulics Laboratory and inspect for water intrusion
+Monitor Iowa River stage and forecasts closely
+Keep personnel away from inundated areas and protect electrical equipment where safe
+Prepare temporary barriers or pumping for low-lying facility areas if water rises further",,,,,,,,,,,,,
+item_0004,"### Situation assessment
+
+At the simulated **15.95-ft stage** on the Iowa River at USGS gage **05454500**, flooding is largely confined to the river corridor, but it is already affecting low-elevation riverfront assets. The modeled off-channel depth reaches about **1.03 m (3.4 ft)**, which is sufficient to damage trail infrastructure, enter low mechanical spaces, undermine approaches, and make crossings unsafe.
+
+The immediate vulnerable locations identified in this scenario are:
+
+- **C. Maxwell Hydraulics Laboratory** and adjacent University of Iowa riverfront facilities
+- **Hancher Footbridge**
+- **Highway 6 East**
+- **Iowa River Corridor Trail**
+- **West Benton Street**
+
+Even though the estimated direct damage is listed as $0, the inundation pattern warrants operational action because access, pedestrian safety, erosion, utility exposure, and building service interruptions can occur before large building-loss estimates appear.
+
+## Recommended mitigation actions
+
+### 1. Close and physically secure low-lying public access areas now
+
+**Priority: immediate**
+
+- Close the flooded segments of the **Iowa River Corridor Trail**, including all access ramps and connecting paths that descend toward the river.
+- Barricade the **Hancher Footbridge** if water is at, over, or approaching its deck/approaches, or if debris and high current create a risk below the bridge.
+- Install visible “high water/no access” signage at trail entrances farther from the river so pedestrians and cyclists are redirected before reaching flooded areas.
+- Use hard barricades—not only cones—where trail users could bypass closures.
+- Prohibit river recreation and launch access in this reach while discharge remains elevated; the brown, expanded river footprint implies strong current and floating-debris hazards.
+
+### 2. Protect the C. Maxwell Hydraulics Laboratory and nearby riverfront utilities
+
+**Priority: immediate to short-term**
+
+The image and scenario place the laboratory within the affected west-bank river corridor. Temporary protection should focus on water entry and critical equipment rather than attempting broad river confinement.
+
+- Deploy **temporary flood barriers, water-filled barriers, or sandbags** at building openings, loading/service doors, low window wells, and utility penetrations.
+- Check and protect **electrical rooms, pumps, HVAC units, generators, telecom rooms, laboratory controls, and chemical storage** located at or below anticipated flood level.
+- Move portable equipment, records, chemicals, and sensitive instruments from ground-level areas to higher floors or off-site storage.
+- Install/verify **backflow prevention** on sanitary and storm connections to prevent sewer surcharge into the building.
+- Prepare safe shutoff procedures for electricity, gas, laboratory systems, and mechanical equipment if water approaches service areas.
+- Conduct post-flood inspections for foundation scour, saturated soils, erosion around pavements, and contamination before reopening.
+
+For long-term resilience, consider floodproofing the lowest vulnerable building areas, elevating or relocating critical mechanical/electrical equipment, and designing sacrificial or easily recoverable ground-floor finishes in exposed portions of the facility.
+
+### 3. Manage Highway 6 East and West Benton Street as flood-sensitive transportation links
+
+**Priority: immediate**
+
+Because both roads are identified as inundated infrastructure, their role should shift from normal mobility to controlled emergency access.
+
+- Establish a **road-closure decision protocol** based on measured water depth, velocity, pavement overtopping, and structural/embankment condition—not simply whether the road “looks passable.”
+- Close road sections before vehicles encounter standing or moving water. About **0.3 m (1 ft)** of moving water can destabilize many vehicles; the modeled maximum off-channel depth is far greater.
+- Set signed detours that preserve access to hospitals, university facilities, emergency services, and major arterial routes.
+- Keep heavy vehicles away from saturated shoulders and eroded road edges, particularly near bridge approaches and drainage outfalls.
+- Inspect culverts, storm inlets, bridge approaches, retaining walls, and pavement edges for scour or debris blockages before reopening.
+- Pre-stage portable pumps only where they can safely remove trapped local runoff; pumping directly against river flooding will have limited value while river stage remains high.
+
+**Long-term:** Evaluate raising localized low spots, adding overtopping-resistant pavement sections, improving roadside drainage, and providing signed high-water detour routes. Any elevation project should be evaluated hydraulically so it does not displace floodwater onto adjacent properties.
+
+### 4. Use the Hancher Footbridge as a monitoring and debris-management focus
+
+**Priority: immediate**
+
+- Inspect bridge piers, abutments, approach paths, and railings from a safe location for debris accumulation and scour.
+- Do not allow staff to manually remove debris from the bridge during elevated flow.
+- After waters recede, inspect for undermined approaches, damaged decking, bent components, sediment deposits, and bank erosion.
+- Consider installing or improving upstream debris-monitoring procedures, with planned contractor response after flows decline.
+
+For long-term mitigation, assess whether the bridge approaches need elevation, more erosion-resistant surfacing, improved drainage, or scour protection compatible with river and floodplain regulations.
+
+### 5. Preserve floodplain storage rather than relying on new continuous levees
+
+**Priority: medium- and long-term**
+
+The modeled image shows that most inundation remains close to the Iowa River corridor, with only a very small fraction of the view inundated. This suggests a targeted approach is preferable to trying to wall off the entire downtown reach.
+
+- Maintain and expand **riverfront open space, parkland, vegetated buffers, and low-use floodable areas** along the corridor.
+- Avoid filling, development, or parking expansion in low river-adjacent areas that currently accommodate floodwater.
+- Where practical, convert repeatedly inundated lawn, trail-edge, and parking areas to **flood-tolerant landscapes**, native vegetation, and soil-stabilizing plantings.
+- Use setback berms or localized protection around particularly vulnerable facilities only after confirming they will not raise flood levels elsewhere.
+- Avoid continuous floodwalls along the full reach unless detailed modeling demonstrates no harmful stage increase, drainage problems, or loss of public river access.
+
+### 6. Reduce local drainage and sewer-backup risk
+
+**Priority: short-term**
+
+At river stages near this level, stormwater outlets can become submerged and lose their ability to drain.
+
+- Inspect outfalls near Highway 6, West Benton Street, university facilities, and riverfront trails for submergence or backflow.
+- Confirm operation of flap gates, check valves, pump stations, and emergency generators where applicable.
+- Clear inlets and debris-prone storm structures before rainfall occurs during elevated river levels.
+- Identify low points that may become isolated “bathtub” flooding areas behind roads or barriers, and prepare pumping plans for those locations after river levels begin falling.
+- Notify building owners in the affected corridor to check sump pumps, floor drains, and sewer backflow devices.
+
+### 7. Strengthen stage-based preparedness using the Iowa City gage
+
+**Priority: ongoing**
+
+Use the **USGS Iowa River at Iowa City gage (05454500)** as the operational trigger, but calibrate action thresholds using local observations at the listed assets.
+
+A practical staged approach would be:
+
+- **Alert level:** forecast rising stage; inspect barriers, close low trail segments, notify facility managers.
+- **Action level:** water approaches known low road/trail elevations; deploy barriers at the hydraulics lab and initiate bridge/road closure preparations.
+- **Closure level:** water reaches roadway, bridge approach, or building-access thresholds; implement full closures and restrict public access.
+- **Recovery level:** water recedes; inspect for scour, contamination, damaged pavement, debris, and utility hazards before reopening.
+
+Thresholds should be tied to surveyed elevations at the lab, bridge approaches, trail entrances, Highway 6 East, and West Benton Street—not solely to a single gage-stage number.
+
+### 8. Coordinate upstream reservoir and emergency communications
+
+**Priority: ongoing**
+
+- Coordinate forecast information with the agencies responsible for the Iowa River system, including upstream reservoir and dam operations where relevant, while recognizing that local rainfall and tributary inflows can still create rapid risk.
+- Issue public messaging that distinguishes **road closures, trail closures, bridge access restrictions, and river recreation warnings**.
+- Provide university, downtown businesses, and nearby residents with a single map showing current closures, detours, and expected reopening criteria.
+- Document high-water extents at this stage to improve future flood maps and validate local action thresholds.
+
+## Best near-term package for this scenario
+
+Given the relatively limited mapped areal inundation but meaningful impacts to critical river-edge assets, the most cost-effective immediate package is:
+
+1. Close the flooded trail and Hancher Footbridge approaches.  
+2. Close or restrict affected portions of Highway 6 East and West Benton Street.  
+3. Deploy temporary building and utility protection at C. Maxwell Hydraulics Laboratory.  
+4. Inspect storm outfalls, bridge approaches, and road edges for backflow, debris, and scour.  
+5. Maintain floodplain storage and avoid new fill or barriers that push water toward adjacent university or downtown areas.  
+
+This approach targets the actual exposed assets shown in the simulation while preserving the river corridor’s capacity to carry and temporarily store floodwater.",,,,,,,,,,,,,
+item_0005,"Monitor Iowa River levels and forecasts
+Keep people away from the river edge and any shallow inundated low ground
+Inspect and clear nearby drainage inlets
+Prepare to close affected riverfront access areas if water rises",,,,,,,,,,,,,
+item_0006,"Close the inundated Iowa River Corridor Trail and barricade all access points.
+Keep pedestrians and cyclists away from the riverbank and flooded low-lying areas.
+Monitor Iowa River stage and issue public updates and evacuation warnings for any expanding inundation.
+Inspect nearby utilities, building perimeters, and road approaches for flood impacts.",,,,,,,,,,,,,
+item_0007,"At the simulated **15.95-ft stage** (171 m³/s), flooding appears highly localized: the Iowa River remains largely confined to its channel, but water reaches the **C. Maxwell Hydraulics Laboratory**, with up to **0.92 m (about 3 ft)** of overbank depth. The nearby arterial/bridge approaches and most of the west-bank park/open space appear dry, so mitigation should prioritize the laboratory and its utility connections rather than broad downtown closures.
+
+### Immediate actions at this stage
+- **Protect the C. Maxwell Hydraulics Laboratory perimeter.** Install a temporary, engineered flood barrier—such as water-filled barriers, HESCO-style units, or sandbag-backed sheeting—around the river-facing and low-elevation sides of the building. Design the crest with freeboard above the modeled 0.92 m depth and allow for wave action, debris, and forecast uncertainty.
+- **Seal building entry points.** Use removable flood panels or watertight covers at doors, loading/service entrances, basement openings, ventilation louvers, and utility penetrations. Pay particular attention to low doors and service yards facing the river.
+- **Prevent sewer/drain backflow.** Close or isolate storm-drain and sanitary connections that could transmit river water into the building; use backflow gates, inflatable pipe plugs where appropriate, and portable pumps only after backflow paths are controlled.
+- **Protect electrical and research equipment.** Move portable instruments, chemicals, computers, pumps, and records above the anticipated inundation elevation. Shut down or isolate low-mounted electrical gear where safe, and verify emergency-power equipment is protected from water entry.
+- **Establish access and safety controls.** Keep staff out of inundated areas, mark flood boundaries, restrict vehicle access near the riverbank, and maintain an emergency route via the presently dry street/bridge approaches.
+
+### Near-term improvements
+- **Install permanent deployable floodproofing** at the laboratory: demountable door panels, raised thresholds, watertight utility covers, and permanently installed anchors for rapid barrier deployment.
+- **Raise or relocate critical systems**—electrical switchgear, HVAC controls, communications, pumps, chemical storage, and emergency generators—above the modeled flood level plus an appropriate freeboard margin.
+- **Create a protected drainage/pumping plan.** Grade the site so runoff drains away from the building after river levels recede; provide sump capacity with backup power, while ensuring discharge points cannot be overwhelmed by high river stage.
+- **Stabilize the river-facing edge** with vegetated reinforcement, toe protection, or other bank-stabilization measures where erosion could undermine the facility or adjacent access path. Avoid measures that constrict the Iowa River channel or transfer risk downstream.
+
+### Longer-term, site-specific resilience
+- **Use the adjacent open/park-like west-bank area as controlled flood storage.** Preserve low-lying green space and avoid adding fill or new vulnerable structures between the road/lab area and the river. If compatible with park and environmental requirements, shallow swales or floodable landscaping can direct shallow overbank flow away from the building.
+- **Consider a localized floodwall or berm only around the laboratory campus**, not a continuous downtown levee. A tied-in, short alignment with closures at access points could protect the facility while retaining the neighboring floodplain’s storage function.
+- **Set operational triggers tied to USGS gage 05454500.** Establish thresholds below 15.95 ft for:  
+  1. moving equipment and checking drains,  
+  2. deploying barriers and closing flood panels,  
+  3. shutting down vulnerable systems and restricting occupancy, and  
+  4. post-flood inspection and reopening.  
+  Triggers should be calibrated with forecast crest, flood duration, rainfall, and uncertainty—not stage alone.
+- **Validate the modeled inundation on the ground.** Because the mapped inundated fraction is very small (0.17%) and estimated damage is currently zero, survey actual door elevations, utility penetrations, drainage inlets, and low spots around the laboratory. Small elevation errors can determine whether water merely reaches the site or enters the building.
+
+The appropriate response is therefore **targeted facility floodproofing, drainage/backflow control, and gage-based deployment procedures**, while retaining nearby open floodplain space and avoiding unnecessary disruption to apparently dry transportation corridors.",,,,,,,,,,,,,
+item_0008,"At a modeled Iowa River stage of **31.53 ft** and discharge of **1,163.8 m³/s**, flooding is concentrated in the low river-adjacent corridor beneath and south of **West Burlington Street**, affecting the **C. Maxwell Hydraulics Laboratory, Hydraulics East Annex, Iowa River Corridor Trail, and Lot 7**. The simulation’s nearly **4.92 m (16 ft) of off-channel depth** means this should be treated as a life-safety and critical-facility flood—not merely a parking or trail nuisance.
+
+## Priority actions for this scenario
+
+### 1. Protect and safely shut down the hydraulics facilities
+The inundation immediately abuts or enters the C. Maxwell Hydraulics Laboratory and East Annex area.
+
+- Install and maintain **deployable flood barriers** or engineered floodwalls at building openings, loading/service entrances, and low points facing the river corridor.
+- **Raise, relocate, or dry-floodproof** electrical switchgear, controls, pumps, IT/network racks, hazardous-material storage, and laboratory equipment above the modeled design-flood elevation plus freeboard.
+- Use **watertight doors, flood-rated utility penetrations, backflow prevention, and sump-pump redundancy** for below-grade or ground-level spaces.
+- Establish a formal **flood shutdown checklist** tied to USGS gage 05454500 forecasts: secure experiments, isolate utilities, move mobile equipment, protect records, and evacuate staff before access routes are cut off.
+- Keep generators and fuel connections out of the expected inundation zone; provide an elevated or off-site backup-power option.
+
+### 2. Keep West Burlington Street and bridge approaches functional
+The floodwater shown close to the West Burlington Street crossing/approach could disrupt an important access and emergency route.
+
+- Survey low spots at the **West Burlington Street approach, adjacent intersections, underpasses, and drainage inlets**; install temporary closure gates/signage and preplanned detours.
+- Prevent river water from entering the roadway drainage network by installing **flap gates/backflow valves** at outfalls and providing isolation where practical.
+- Where elevation and hydraulic analysis support it, **raise localized approach grades** or construct short, landscape-integrated protection berms/walls. Avoid narrowing the bridge opening or blocking flood conveyance.
+- Place flood-depth markers, automated barricades, and gage-triggered road-closure protocols. With depths potentially well above vehicle-fording limits, no traffic should be allowed through inundated segments.
+
+### 3. Remove vulnerable uses from Lot 7 and the river-side service area
+Lot 7 and the paved river-adjacent yard are suited to temporary or low-consequence uses but should not function as storage during flood season.
+
+- Prohibit storage of vehicles, chemicals, cylinders, dumpsters, transformers, or expensive mobile equipment below the flood-protection elevation.
+- Design Lot 7 as a **sacrificial floodable surface**: permeable pavement where feasible, robust subbase, anchored site furniture, and electrical equipment mounted high enough to remain dry.
+- Use the lot as a predesignated **staging area only when river forecasts permit**; otherwise move vehicles and assets to higher campus/city locations under a trigger-based plan.
+- Improve drainage so rainfall runoff does not remain trapped after river levels fall; include backflow protection so the system does not become a river-water entry path.
+
+### 4. Convert the Iowa River Corridor Trail into a flood-resilient corridor
+The trail is already identified as inundated and is directly within the river’s flood conveyance area.
+
+- Treat this reach as intentionally floodable: use **erosion-resistant trail materials, removable/replaceable signage, anchored lighting/furnishings, and flood-tolerant vegetation**.
+- Install **automatic trail-closure gates** at access points and signs linked to river-stage thresholds; closures should occur well before water overtops trail segments.
+- Regrade selected river-edge areas into **benched floodplain/vegetated swales** that can store shallow floodwater, reduce erosive velocities, and capture sediment.
+- Avoid permanent walls along the trail unless a hydraulic model shows no harmful displacement of floodwater toward buildings or streets.
+
+## Site-scale flood mitigation
+
+### 5. Create a continuous, but selective, protection line around high-value buildings
+A continuous hard wall along the river could shift floodwater elsewhere. Instead, develop a hydraulic-model-tested system that protects critical facilities while allowing parks, trail areas, and selected parking areas to flood.
+
+- Use **short floodwalls, berms, deployable barriers, and closure structures** around the laboratory/annex and critical utility nodes.
+- Tie protection features into higher ground near the West Burlington Street corridor and avoid isolated barriers that allow water to wrap around their ends.
+- Include at least **1–2 ft of freeboard** above the selected design water surface, subject to final engineering and applicable floodplain standards.
+- Analyze groundwater uplift and seepage behind barriers; deep floodwater can cause underseepage even if surface barriers remain intact. Include relief wells, cutoff measures, drainage blankets, and pump capacity as appropriate.
+
+### 6. Improve floodplain storage rather than filling low ground
+Because only about **9.9% of the viewed area** is inundated but damages are estimated near **$69.6 million**, the issue is concentrated exposure of valuable facilities rather than broad inundation alone.
+
+- Preserve the landscaped/open areas near the corridor as **flood storage and conveyance space**.
+- Avoid new fill, buildings, or enclosed structures in the inundated footprint unless compensatory storage and no-rise analysis are provided.
+- Consider strategic excavation or floodplain reconnection in noncritical open-space areas if it demonstrably reduces local stages or velocities.
+- Restore dense native riparian vegetation where it will not obstruct bridge hydraulics or create debris hazards.
+
+## Operations, warning, and recovery
+
+### 7. Use gage-based action thresholds
+Tie response actions to the Iowa City USGS gage and forecasted upstream discharge rather than waiting for visible flooding.
+
+A practical tiered plan could include:
+- **Alert:** forecast indicates approach to trail/parking inundation—inspect barriers, notify facility managers, stop river-corridor activities.
+- **Action:** predicted flooding of Lot 7/trail—close trail and parking, relocate vehicles and portable assets, install barriers.
+- **Emergency:** forecast approaches facility or roadway thresholds—shut down vulnerable utilities, evacuate affected buildings, close West Burlington Street segments as needed, and activate emergency pumping/monitoring.
+
+Threshold values should be calibrated from surveyed elevations and the simulation model, not inferred from a single event.
+
+### 8. Plan for contamination and post-flood reentry
+Floodwater in laboratory/service areas can mobilize fuels, chemicals, sewage, sediment, and electrical hazards.
+
+- Maintain an inventory of chemicals and secure all containers above the flood level.
+- Pre-arrange sampling, decontamination, mold prevention, electrical inspection, and sediment/debris removal contracts.
+- Do not reoccupy flooded facilities until structural, electrical, mechanical, and indoor-environment assessments are complete.
+
+## Recommended next technical steps
+1. Survey finished-floor elevations, utility elevations, and low roadway/trail points relative to the gage datum.  
+2. Run a detailed 2-D hydraulic model for stages around and above **31.53 ft**, including bridge/roadway interactions and barrier alternatives.  
+3. Rank projects by avoided damage to the hydraulics facilities, roadway continuity, and utility systems.  
+4. Implement low-cost operational measures immediately—closures, asset relocation, backflow protection, emergency plans—while designing permanent protection for the laboratory/annex area.  
+
+The most effective strategy here is a **layered system**: protect the critical laboratory and utility assets, keep West Burlington Street safely manageable, and deliberately allow the trail, selected parking, and landscaped river corridor to serve as floodable space.",,,,,,,,,,,,,
+item_0009,"At the modeled **Iowa River stage of 15.95 ft** (USGS 05454500) and discharge of **171 m³/s**, flooding appears largely confined to the river corridor, but shallow overbank water—up to **1.03 m outside the mapped channel**—is reaching low points along transportation, trail, and university-riverfront facilities. The very low modeled inundated-area fraction should not be treated as low consequence: the affected features are important access and public-safety assets.
+
+### Immediate actions at this stage
+
+- **Close and barricade the Iowa River Corridor Trail and Hancher Footbridge approaches.** The bridge itself may remain structurally sound, but access ramps, low trail connections, debris accumulation, and slippery/undermined surfaces are likely hazards. Post closures at upstream access points, not just at the water edge.
+- **Implement traffic control for Highway 6 East and West Benton Street.** Inspect low approaches, culverts, and adjacent drainage inlets; place advance “road may flood” signage and identify detours before water reaches travel lanes. Do not use temporary barriers where they would trap runoff on the road or direct water toward buildings.
+- **Protect the C. Maxwell Hydraulics Laboratory first.** Deploy removable flood panels/sandbag-compatible barriers at low doors, service bays, and utility penetrations; move portable equipment, chemicals, records, and electrical equipment above the modeled flood level plus freeboard.
+- **Inspect and clear drainage outlets, storm inlets, and flap gates** along the riverfront. River stage can back up storm sewers even where visible river overtopping is limited, creating localized flooding behind otherwise dry riverbanks.
+- **Monitor for erosion and debris.** Focus on trail edges, bridge abutments, culvert outlets, bank paths, and the roadway embankments near Highway 6/West Benton. Fast or debris-laden water can damage these assets before widespread flooding occurs.
+
+### Site-specific mitigation priorities
+
+#### 1. C. Maxwell Hydraulics Laboratory / University riverfront
+- Install **permanent deployable flood barriers** or demountable panels around vulnerable ground-level openings rather than relying solely on sandbags.
+- **Raise or floodproof electrical, HVAC, controls, backup-power components, and laboratory-critical equipment** above the design flood elevation with additional freeboard.
+- Add **backflow preventers, sealed utility penetrations, and sump pumps with emergency power**; test them before forecast flood events.
+- Use a campus flood-response trigger tied to the Iowa City gage—for example, escalating from inspection to barrier deployment to facility shutdown at locally validated stage thresholds.
+- Preserve adjacent open riverbank/green space as a **flood-storage and conveyance corridor**; avoid adding fill, parking, or new impervious development in these low areas.
+
+#### 2. Hancher Footbridge and Iowa River Corridor Trail
+- Design trail segments and ramps as **sacrificial/recoverable infrastructure**: durable surfaces, anchored furnishings/signage, quickly removable fixtures, and erosion-resistant edges.
+- Improve bridge and trail approach resilience with **armored abutment slopes, vegetated geogrids, toe protection, and scour inspection points**.
+- Provide signed **upland detour routes** that remain outside the flood-prone corridor, including accessible alternatives.
+- Place water-level sensors/cameras at low trail crossings and bridge approaches to automate closure notifications.
+
+#### 3. Highway 6 East and West Benton Street
+- Identify whether inundation occurs from direct river overflow, storm-sewer backup, or low-road drainage; mitigation differs by mechanism.
+- Where the road is a critical route, consider **localized road-profile raising**, improved side drainage, and raised/relocated electrical traffic-control cabinets during future reconstruction.
+- Install or upgrade **outfall check valves/flap gates** where river levels can surcharge the storm-drain system, while ensuring pumped drainage or storage is available behind closed gates.
+- Protect low embankments and shoulders from washout with properly designed stabilization—not continuous levees that merely push water onto nearby properties.
+- Establish preplanned detours and emergency-service routing; use gage-based thresholds that trigger closure before depths become hazardous.
+
+### Corridor-scale measures
+
+- Expand and maintain **floodplain storage, wetlands, native riparian vegetation, and setback areas** along the Iowa River. These measures reduce velocities, bank erosion, and nuisance flooding while avoiding the adverse effects of narrowing the corridor.
+- Use **distributed green stormwater infrastructure** in the nearby urbanized areas—bioretention, permeable pavement where appropriate, tree trenches, and detention upgrades—to reduce runoff entering a river-backed storm-sewer system.
+- Avoid relying on a continuous riverfront wall as the main solution. In this setting it could transfer risk downstream or create interior-drainage problems. If a floodwall/berm is considered for a critical facility, pair it with interior pumping, closure plans, and an assessment of impacts on adjacent properties.
+- Update the model with surveyed elevations at building thresholds, trail grades, road crowns, storm outfalls, and bridge approaches. Given the modeled maximum off-channel depth of about **1 m**, small elevation errors can substantially change which doors, streets, and ramps are affected.
+
+### Recommended decision framework
+
+1. **Now:** close exposed trail/bridge access, protect the laboratory, inspect drainage and roads.  
+2. **Before the next high-water season:** establish gage-triggered action levels, procure barriers, survey critical elevations, and formalize detours.  
+3. **Capital program:** floodproof the laboratory and utilities, improve stormwater backflow control, harden trail/bridge approaches, and retain/restore floodplain storage.
+
+Although the simulation reports **$0 estimated 2023 damage**, the listed inundation of a laboratory, bridge/trail system, and roadways indicates meaningful operational risk. Mitigation should therefore prioritize life safety, continuity of access, protection of specialized university equipment, and rapid post-flood recovery rather than only modeled building-loss estimates.",,,,,,,,,,,,,
+item_0010,"At the simulated **31.53-ft stage** on the Iowa River at Iowa City (about **1,164 m³/s** upstream discharge), flooding is concentrated in the low river-edge corridor. The image shows the principal exposure along the **east-bank Iowa River Corridor Trail**, including the low promenade/terraced areas adjacent to the river and approaches near the pedestrian bridge and downtown-facing institutional/commercial buildings. With modeled off-channel depths reaching **3.21 m**, this should be treated as a life-safety and critical-access event—not merely a trail closure.
+
+### Priority actions during this event
+
+1. **Close and physically barricade the Iowa River Corridor Trail**
+   - Close all river-edge trail entrances, terrace steps, underpasses, and bridge approaches before overtopping.
+   - Use hard barricades rather than signs alone; fast-moving floodwater can cover the trail edge and obscure drop-offs.
+   - Post closure points at the north/south trail connections and at the downtown street-to-trail access ramps.
+
+2. **Protect downtown access and emergency circulation**
+   - Monitor low points at the east-bank street/trail interface, especially near the bridge landing and the river-facing service drives.
+   - Establish alternate emergency and delivery routes on the higher east-side street grid; do not rely on riverfront drives or parking/loading areas.
+   - Restrict parking in low river-adjacent lots so vehicles do not become debris or block responders.
+
+3. **Deploy temporary flood protection selectively**
+   - Place water-filled barriers or modular barriers at openings where water can move from the trail/riverfront into building service areas, loading entrances, utility vaults, and below-grade access points.
+   - Do **not** attempt to wall off the entire river edge with sandbags; with potentially meter-scale depth, that would be unreliable and could redirect water toward adjacent properties.
+
+4. **Protect building systems, not only entrances**
+   - Move portable equipment, stored materials, dumpsters, and hazardous materials out of the riverfront zone.
+   - Shut down or elevate vulnerable electrical panels, HVAC controls, communications equipment, elevator components, and pumps located in basements or ground-level service rooms.
+   - Install temporary backflow prevention or isolate sanitary/storm connections where river levels can surcharge local drainage.
+
+### Site-specific capital measures
+
+1. **Rebuild the trail as a floodable, quickly recoverable corridor**
+   - Since the currently inundated asset is the Iowa River Corridor Trail, design it to safely flood rather than trying to keep it dry at all events.
+   - Use resilient pavement, concrete or stabilized aggregate surfacing, anchored furnishings, removable signs/lighting, and flood-resistant planting.
+   - Replace vulnerable trail-edge features with railings, markers, and wayfinding that remain visible when water rises and can withstand debris impact.
+   - Raise only critical trail connections where feasible; retain lower segments as sacrificial/floodable space.
+
+2. **Create a riverfront “storage and conveyance” strip**
+   - Preserve the terraced lawn, promenade, and open riverbank area as flood storage and flow conveyance.
+   - Regrade local depressions and paths so floodwater drains back toward the river after cresting rather than becoming trapped against buildings.
+   - Add native riparian vegetation, reinforced bank treatments, and selectively placed flood benches to slow erosion and reduce sediment/debris deposition on the trail.
+
+3. **Harden the boundary between riverfront open space and buildings**
+   - At the rear/service sides of river-adjacent buildings, use deployable flood panels, raised door thresholds, sealed penetrations, flood-rated doors, and protected utility entries.
+   - Where protection is justified by building value, construct short, discontinuous floodwalls or berms tied into higher ground—especially around critical facilities—not a continuous wall along the public riverfront.
+   - Design any barrier system with pumps, drainage gates, and inspection access; otherwise rainfall trapped behind it can create a separate flooding problem.
+
+4. **Elevate or relocate critical utilities**
+   - Given the modeled **3.21 m maximum off-channel depth**, electrical and mechanical equipment at grade may be well below the required protection level.
+   - Elevate critical controls above the locally modeled flood elevation plus freeboard, or relocate them to upper floors/interior higher ground.
+   - Protect transformer pads, emergency generators, telecom cabinets, and fuel systems from both inundation and buoyancy.
+
+### River, bridge, and drainage measures
+
+1. **Inspect bridge-adjacent and trail-bank erosion risks**
+   - High flows beside the pedestrian bridge and along the east-bank trail can scour abutments, retaining features, path foundations, and utility crossings.
+   - Perform post-event inspections for bank slumping, undermined pavement, damaged railings, and debris accumulations at bridge and trail constrictions.
+
+2. **Improve outfall and storm-drain performance**
+   - Identify storm outfalls along the riverfront that may backflow when the Iowa River is at this stage.
+   - Install flap gates/check valves where appropriate, while ensuring they are maintainable and do not worsen interior drainage during rainfall.
+   - Add pump-ready low points or temporary pumping connections behind protected building edges.
+
+3. **Use upstream and reservoir coordination where available**
+   - At a discharge of roughly **1,164 m³/s**, advance warning and coordinated flow management are valuable.
+   - Tie City/University response triggers to the USGS gage at **05454500**, forecast hydrographs, and upstream reservoir operations—not just observed local water levels.
+
+### Recommended trigger framework
+
+- **Early forecast trigger:** inspect barriers, clear debris, relocate equipment, notify trail users and riverfront businesses.
+- **Pre-closure trigger:** close the Iowa River Corridor Trail and bridge-adjacent low approaches before water reaches walking surfaces.
+- **Building-protection trigger:** deploy site-specific barriers; isolate low utilities and parking/service areas.
+- **Post-crest trigger:** reopen only after structural, electrical, sanitary, and bank-stability inspections; clean sediment and inspect trail subgrade before allowing public use.
+
+### Planning implication
+
+The estimated **$69.55 million** damage level indicates that the most cost-effective strategy is likely a layered approach: **accept controlled flooding in the riverfront trail/open-space zone, protect critical building systems and access points behind it, and maintain reliable closure/evacuation operations.** Attempting to fully exclude a flood of this magnitude from the entire downtown river edge would be expensive and could transfer risk elsewhere.",,,,,,,,,,,,,
+item_0011,"Close and barricade inundated road, trail, and footbridge segments
+Keep people and vehicles out of floodwater
+Monitor Iowa River stage and forecast conditions
+Inspect the hydraulics laboratory and nearby infrastructure for water intrusion
+Post detours and public flood warnings for affected corridors",,,,,,,,,,,,,
+item_0012,"At a **31.53-ft stage at USGS 05454500** and roughly **1,164 m³/s upstream discharge**, this scenario overtops the low river-edge corridor and affects the University riverfront assets, trail, Lot 7, and West Burlington Street. With modeled off-channel depths up to **4.92 m (16 ft)**, mitigation should not rely on sandbags alone; it needs a mix of building protection, controlled conveyance/storage, and reliable access management.
+
+### 1. Protect the C. Maxwell Hydraulics Laboratory and Hydraulics East Annex
+These are the highest-value, flood-sensitive assets immediately beside the Iowa River.
+
+- **Floodproof rather than merely dry-proof critical functions.** Raise or relocate electrical switchgear, controls, pumps, IT/network equipment, chemical storage, and emergency generators above the modeled flood level plus freeboard. A practical target is the design flood elevation associated with this event plus **2–3 ft of freeboard**, subject to survey and code review.
+- **Install deployable perimeter flood barriers** at building entrances, loading doors, low windows, utility penetrations, and the river-facing edges of the laboratory/annex. Use engineered stop-log or flip-up barriers rather than relying on temporary sandbags.
+- **Add backflow protection and sealed utility entries.** Flooding can enter through sanitary/storm laterals and conduit trenches even if doors are protected. Install backwater valves where appropriate, watertight conduit seals, and pump stations with backup power.
+- **Create a floodable lower-level strategy** if complete exclusion is not feasible: flood-compatible finishes, raised equipment pads, sacrificial wall systems, and documented shutdown/recovery procedures.
+- **Provide redundant emergency power and communications on high ground**, not in the low riverfront service yard.
+
+### 2. Manage the river-edge flow path instead of blocking it indiscriminately
+The image shows narrow, low ground between the road/trail corridor and the river. Water concentrated here can reach buildings and road approaches quickly.
+
+- **Build a set-back, discontinuous flood berm or landscaped floodwall** around the laboratory/annex complex and selected utilities, tied into naturally higher ground and designed with closure points at driveways. Keep it set back from the active bank where possible.
+- **Do not construct a continuous wall along the entire river edge without hydraulic analysis.** A wall too close to the channel could constrict flood conveyance, raise local stages, increase velocities/scour, and shift risk toward adjacent properties or the bridge.
+- **Regrade the riverfront strip to direct overflow toward designated floodable open areas**, away from building doors and road low points. Shallow swales, armored flow paths, and check structures can guide receding floodwater and reduce erosion.
+- **Stabilize the riverbank and bridge-adjacent margins** with vegetated reinforcement, toe protection, and scour countermeasures. High flows at the Burlington Street bridge and adjacent hydraulic facilities can erode the narrow bank/road corridor.
+
+### 3. Convert Lot 7 and nearby low open space into intentional flood-storage areas
+Lot 7 is already listed as inundated and is a relatively suitable place to accept periodic flooding.
+
+- **Treat Lot 7 as a floodable parking/storage basin**: use permeable pavement where feasible, depressed landscaped cells, bioswales, and subgrade storage that drains after floodwaters recede.
+- **Move essential parking, fleet, and expensive mobile equipment to higher ground** before forecast threshold stages; preserve Lot 7 for short-term and event parking only.
+- **Use breakaway or elevated site furnishings, lighting, EV equipment, and pay stations.** Avoid placing transformers, fuel systems, or other critical equipment in this low area.
+- **Develop a pre-flood vehicle-removal trigger** linked to river forecasts, not observed inundation. At these depths, vehicles left in the lot become debris and contamination hazards.
+
+### 4. Keep West Burlington Street and bridge approaches functional—or close them early
+West Burlington Street is a key east-west route, but the low river-adjacent approach is vulnerable.
+
+- **Survey and raise localized low spots** on West Burlington Street approaches and adjacent drainage inlets where a modest grade adjustment can prevent nuisance-to-moderate flooding.
+- **Use deployable roadway barriers at known overtopping points**, with protected drainage closure structures to prevent water entering from curb inlets.
+- **Establish signed detour and closure plans** before water reaches the roadway. At up to 4.92 m outside the channel, attempting to keep all segments passable is unsafe and unrealistic.
+- **Protect bridge approach embankments and utilities** from erosion and undermining; inspect abutments, retaining elements, and pavement subgrades following each high-water event.
+- **Maintain emergency access from the west/south** to the laboratory district so that loss of the Burlington Street approach does not isolate critical facilities.
+
+### 5. Reconfigure the Iowa River Corridor Trail as a sacrificial, rapidly recoverable asset
+The trail runs directly through the inundation zone and should be designed to flood safely.
+
+- **Use flood-resilient trail surfaces and foundations**, such as reinforced concrete/asphalt in high-velocity sections, stabilized aggregate in lower-risk segments, and edge anchoring to resist flotation or washout.
+- **Install water-level gates and clear closure signage** at trail access points, particularly near the bridge and laboratory area.
+- **Avoid permanent trail structures, kiosks, electrical boxes, and furniture in the lowest corridor.** Use removable or elevated amenities.
+- **Designate overtopping and drainage crossings** so water can cross the trail without eroding its base or cutting new channels through the parkland.
+
+### 6. Improve warning, operations, and recovery around the Iowa River gage
+Because the scenario is tied to the Iowa City gage, operations can be explicitly threshold-based.
+
+- Set staged actions linked to **forecast and observed stage at USGS 05454500**:
+  - **Early action:** inspect closures, relocate vehicles/equipment, verify pumps and generators.
+  - **Pre-inundation action:** deploy building barriers, close trail, secure Lot 7, protect utilities.
+  - **Road-closure action:** close affected portions of West Burlington Street and enforce detours before overtopping.
+- Use **real-time water-level sensors** at the laboratory, Lot 7, trail low points, and road approaches; local water depths can differ materially from the gage because of backwater, terrain, and bridge hydraulics.
+- Prepare a **contamination and cleanup plan** for laboratory areas: isolate hazardous materials, document equipment, test electrical systems before reenergizing, and inspect for sediment/scour.
+
+### 7. Longer-term priority investments
+Given the estimated **$69.55 million in 2023 damages**, the most defensible capital sequence is:
+
+1. **Floodproof and elevate critical laboratory/annex systems.**
+2. **Provide deployable perimeter protection and utility backflow controls.**
+3. **Make Lot 7 and riverfront open areas intentional flood-storage/floodable landscapes.**
+4. **Protect road/bridge approaches and formalize closures/detours.**
+5. **Restore the trail and bank as resilient, sacrificial river-corridor infrastructure.**
+
+Before final design, the City and University should run a detailed hydraulic/hydrodynamic model for the **Burlington Street bridge, laboratory complex, and river-edge road/trail corridor**, using surveyed elevations and multiple Iowa River flood events. That analysis is important to ensure any berm, wall, or raised roadway reduces damage here without increasing stage, velocity, or scour elsewhere.",,,,,,,,,,,,,
+item_0013,"At the modeled Iowa River stage of **31.53 ft** (upstream discharge **1,163.8 m³/s**), flooding is not confined to the riverbank: it reaches low river-adjacent transportation corridors, University facilities, trails, parking areas, and commercial parcels. With modeled off-channel depths up to **4.95 m** and roughly **$69.6M** in estimated damage, mitigation should prioritize life safety, continuity of access, and protection/relocation of vulnerable low-elevation assets—not simply more river-edge hardening.
+
+## Priority actions for this scenario
+
+### 1. Establish a stage-triggered closure and evacuation system
+Use the **USGS 05454500 Iowa River at Iowa City** gauge as the operational trigger, with pre-defined actions below and at the modeled **31.53-ft** stage.
+
+- Close and barricade inundation-prone segments of **East/West Benton Street, West Burlington Street, West Harrison Street, West Iowa Avenue, South Clinton Street, South Dubuque Street, Kirkwood Avenue, and Highway 6 East** before water reaches pavement.
+- Include automatic closure of the **Hancher Footbridge**, Iowa River Corridor Trail, and Iowa River Trail; trails and underpasses can flood early, conceal swift water, and become public-safety traps.
+- Designate signed detours on higher ground and maintain emergency access to the University/downtown area from routes outside the floodplain.
+- Use flood-depth sensors/cameras at road low points and bridge approaches, tied to public alerts and variable-message signs.
+- Evacuate or relocate vehicles and movable inventories early from **Lot 7, Lot 64**, Kelly’s Auto Center, Professional Muffler, and other low-lying commercial/parking areas.
+
+### 2. Floodproof the named University and research facilities
+The **C. Maxwell Hydraulics Laboratory** and **Hydraulics East Annex** should receive facility-specific flood-resilience upgrades because laboratory, electrical, and research equipment losses can greatly exceed building-repair costs.
+
+- Elevate or relocate electrical switchgear, transformers, backup generators, IT/telecom rooms, pumps, laboratory controls, chemical storage, and critical research equipment above the design flood elevation plus freeboard.
+- Install deployable flood barriers or flood doors at low entrances, loading bays, utility penetrations, and below-grade access points.
+- Add backflow preventers, watertight sewer connections, and sump-pump systems with backup power.
+- Store chemicals, fuels, compressed gases, and sensitive equipment above expected inundation levels; prepare a shut-down/secure protocol activated by forecasted gauge stage.
+- Ensure generators, fuel supplies, and emergency communications remain operable when nearby streets are closed.
+
+### 3. Convert frequently flooded river-edge land to flood-storage and flood-compatible use
+The imagery shows extensive river-adjacent open space, parking, trails, and institutional land. These areas should serve as a deliberately managed flood corridor.
+
+- Restore and expand **floodplain benches, wetlands, native prairie, riparian forest, and shallow overflow/storage areas** along both banks where feasible.
+- Prioritize low-value, repeatedly inundated parking and lawn areas near the river for floodable open space rather than rebuilding with higher-value vulnerable uses.
+- Use floodable parks, athletic/open-space areas, and designed detention basins that can safely hold water during high stages and recover afterward.
+- Preserve open conveyance paths to avoid trapping water behind roads, walls, or redevelopment parcels.
+
+This approach is especially appropriate given the nearly **5 m** modeled off-channel depth: shallow landscaping alone is insufficient, but restored storage areas can reduce local exposure and recovery costs.
+
+### 4. Protect access corridors with targeted—not continuous—roadway measures
+Full-length levees through downtown and the University area could shift water and worsen flooding elsewhere. Instead, use selective protection where it maintains critical access.
+
+- Raise or locally harden critical low points on **Highway 6 East** and key approaches to major crossings, only after hydraulic modeling confirms that the project does not displace floodwater into adjacent neighborhoods or campus facilities.
+- Use flood-resistant road bases, protected culverts, erosion control, and removable barriers at known overtopping locations.
+- Design roadway improvements with relief openings/culverts so floodwater can pass rather than pond on the protected side.
+- Keep **Hancher Footbridge** and trail crossings structurally resilient to debris impact and scour, while treating them as sacrificial/closed assets during extreme events rather than emergency evacuation routes.
+
+### 5. Reduce exposure in the South Clinton–South Dubuque–Kirkwood commercial area
+The listed inundated streets and businesses indicate exposure on the developed east-side river-adjacent corridor.
+
+- Require substantial-damage/substantial-improvement projects in this area to elevate occupied floors and critical utilities, or use dry/wet floodproofing appropriate to building type.
+- For auto-service and industrial-style parcels, require secured hazardous-material storage, elevated tanks, anchored waste containers, and rapid removal of vehicles and portable equipment.
+- Offer acquisition, relocation, or conversion-to-open-space options for properties with repetitive severe losses where elevation is impractical.
+- Use redevelopment standards that prohibit new critical facilities, basement-dependent uses, or vulnerable residential units in the deep-flood zone.
+
+### 6. Manage parking lots as sacrificial, recoverable flood areas
+**Lot 7 and Lot 64** are specifically inundated. Parking is generally a better floodplain use than occupied structures, but it needs controlled operation.
+
+- Maintain them as intentionally floodable areas, with stage-based vehicle removal procedures and gates/signage that prevent entry during rising water.
+- Raise payment/control equipment, electrical cabinets, and communications hardware.
+- Use permeable pavement, bioswales, and robust drainage where appropriate, while recognizing these measures manage local rainfall more than river flooding.
+- Avoid placing emergency vehicle staging, essential staff parking, or critical fleet storage in these lots during flood operations.
+
+### 7. Couple local measures with reservoir and watershed operations
+At this magnitude of flow, local defenses alone cannot eliminate risk.
+
+- Coordinate forecast-based operations among Iowa City, the University of Iowa, Johnson County, the U.S. Army Corps of Engineers/Coralville Lake operators, and emergency management.
+- Use ensemble river forecasts to begin closures, laboratory protection, vehicle relocation, and temporary-barrier deployment before the local gauge reaches critical thresholds.
+- Support upstream runoff reduction—wetland restoration, floodplain reconnection, soil-health practices, and detention in tributary watersheds—to reduce peak inflows over time.
+- Evaluate reservoir operating rules through the appropriate federal/state process; any changes must balance flood risk, dam safety, downstream impacts, water supply, and environmental constraints.
+
+## Suggested implementation sequence
+
+**Immediate (next flood season)**
+- Gauge-based action matrix, road/trail closure plan, detour signage, alerts, vehicle-removal agreements, flood barriers for critical buildings, utility/chemical inventory, and emergency pumps/generators.
+
+**Near term (1–5 years)**
+- Elevate/protect utilities at the hydraulics facilities; improve roadway drainage and critical low points; install water-level sensors; retrofit parking facilities; acquire or floodproof the highest-loss commercial sites.
+
+**Long term (5+ years)**
+- Expand connected flood-storage/open-space areas along the Iowa River, relocate repeatedly damaged uses, elevate key access routes where hydraulically justified, and integrate watershed/reservoir forecasting and operations.
+
+A key design criterion should be to protect life-safety and essential facilities through an event at least as severe as this **31.53-ft** simulation, with additional freeboard and explicit planning for overtopping or failure of temporary measures.",,,,,,,,,,,,,
+item_0014,"Close and barricade inundated streets, trails, parking lots, and the Hancher Footbridge
+Evacuate or protect occupants and vehicles at affected buildings and businesses
+Deploy flood barriers and protect critical utilities at vulnerable facilities
+Issue public warnings and enforce no-driving/no-walking-through-floodwater restrictions
+Monitor Iowa River stage continuously and prepare for additional closures or evacuations",,,,,,,,,,,,,
+item_0015,"At this simulated condition, flooding is still **largely confined to the Iowa River channel**. The reported maximum off-channel depth is only **0.22 m (about 9 in.)**, only **0.18% of the view is inundated**, and no infrastructure is flagged as inundated. The priority should therefore be **early, low-regret measures** that prevent shallow river-edge flooding from entering streets, basements, utilities, and building entrances if the stage rises further.
+
+### Immediate actions at this stage
+- **Monitor the USGS 05454500 gage closely** and use a staged response plan tied to increasing stage—not just the current 15.95-ft reading. Confirm forecasts, rainfall, and Iowa River/Coralville Reservoir operating conditions with local emergency management and river operators.
+- **Inspect the riverfront edge and bridge approaches**, especially the low areas immediately east of the river near the bridge and the curved riverfront drive/walkway south of it. Close pedestrian paths or restrict access if water begins overtopping curbs or covering pavement.
+- **Keep vehicles, dumpsters, construction materials, and loose street furniture out of the river-edge corridor.** Shallow inundation can move debris into bridge openings or storm drains and can create hazards before buildings are affected.
+- **Clear curb inlets and inspect storm-drain outfalls** along the river-facing streets and around the large downtown/campus buildings. At this shallow-water stage, blocked drainage or river backflow may be a more immediate issue than direct overbank flooding.
+
+### Targeted protection for nearby buildings and utilities
+- **Pre-stage modular flood barriers, sandbags, and door shields** for ground-level openings on the west/riverside faces of the buildings nearest the channel and for low loading/service entrances near the bridge and riverfront access road.
+- **Install or verify backflow prevention** on storm and sanitary connections serving the river-adjacent blocks. Check sump pumps, emergency generators, electrical rooms, telecom cabinets, elevator pits, and other below-grade equipment.
+- **Raise or protect vulnerable exterior electrical equipment** where practical, particularly any equipment near ground level on the river-facing side of the central building cluster.
+- **Use water-resistant temporary barriers rather than permanent walls** for this condition. The simulation does not indicate a current need for broad, high floodwalls; such structures could impair river access, drainage, views, and emergency circulation.
+
+### Street, bridge, and access management
+- Establish **traffic-control trigger points** for the riverfront road, pedestrian paths, and the bridge-adjacent intersections. A few inches of water can make pavement edges, utility covers, and curbs difficult to see.
+- Keep a **clear emergency route inland/east of the riverfront buildings** so that response vehicles do not depend on the low river-edge circulation route.
+- Inspect bridge-adjacent drainage and abutment areas for **debris accumulation, scour, or erosion** after high flows. Do not place sandbags or materials where they could redirect water toward bridge approaches or obstruct drainage.
+
+### Medium- and long-term mitigation
+- Create or preserve a **riverfront overflow/storage strip** in the open green space south of the building cluster where feasible. Graded, flood-tolerant landscaping, bioswales, and infiltration areas can accept shallow overflow while keeping it away from buildings and streets.
+- Improve **stormwater conveyance with controlled outfalls**: add backflow gates/check valves where appropriate, enlarge or maintain key inlets, and provide temporary pumping connections for low points during high river stages.
+- Require river-adjacent redevelopment to use **elevated finished-floor elevations, flood-resilient ground floors, relocatable equipment, and protected utility penetrations**.
+- Develop a **site-specific flood trigger matrix** using the Iowa River gage: monitoring threshold, path-closure threshold, barrier-deployment threshold, and building-protection/evacuation threshold. Validate each threshold using surveyed elevations and updated hydraulic modeling rather than relying on this single image.
+
+In short: because there is no modeled infrastructure inundation or estimated damage yet, prioritize **monitoring, drainage/backflow control, temporary protection of low entrances and utilities, and early closure of river-edge access**—while planning longer-term floodable landscape and building-resilience improvements for higher stages.",,,,,,,,,,,,,
+item_0016,"Close and barricade inundated Iowa River Corridor Trail segments
+Keep pedestrians and vehicles away from flooded riverbank areas
+Monitor Iowa River stage and issue localized flood alerts
+Inspect nearby riverfront facilities and utilities for water intrusion",,,,,,,,,,,,,
+item_0017,"At the simulated **31.53-ft stage at USGS 05454500** and **1,163.8 m³/s upstream discharge**, flooding expands beyond the Iowa River’s mapped channel into the low-lying riverfront, campus-adjacent areas, and downtown approach streets. With modeled off-channel depths up to **4.95 m (16.2 ft)** and roughly **$69.6M** in estimated damage, this is beyond a sandbag-only event: the strategy should combine targeted temporary protection, permanent floodproofing, access planning, and floodplain storage.
+
+## Priority actions for this scenario
+
+### 1. Protect critical University of Iowa riverfront facilities
+**Targets:** C. Maxwell Hydraulics Laboratory, Hydraulics East Annex, adjacent campus utility/electrical systems, and nearby parking areas including Lots 64 and 7.
+
+- **Elevate or relocate vulnerable electrical switchgear, pumps, controls, IT, laboratory equipment, hazardous-material storage, and emergency generators** above the modeled flood elevation plus freeboard. A practical target is the design flood elevation plus at least 2–3 ft of freeboard, subject to engineering review.
+- Use **dry floodproofing** where feasible: reinforced floodwalls at building openings, deployable door barriers, flood-rated doors, sealed utility penetrations, backflow prevention, and sump redundancy.
+- For lower-value/support buildings where deep inundation is expected, use **wet floodproofing and sacrificial lower levels** rather than attempting to hold back several meters of water.
+- Establish a **lab shutdown and materials-removal trigger** tied to forecast river stage—not only observed stage—so equipment, chemicals, records, and mobile assets are moved before streets become impassable.
+- Do not rely on temporary barriers alone around facilities exposed to near-5-m depths; they should supplement permanent measures and be limited to short, defensible gaps.
+
+### 2. Create a continuous, selectively deployed riverfront protection system
+The aerial view shows dense development near the river on both the campus/west-bank side and downtown/east-bank side, with roads and trail corridors offering likely flood-entry routes.
+
+- Develop **compartmentalized flood protection cells** rather than one long wall. Use permanent low walls/berms where they can be integrated with landscaping and deployable barriers at road, driveway, trail, and utility crossings.
+- Prioritize protection around:
+  - the **Hydraulics Laboratory/Annex and adjacent campus core**;
+  - **downtown-facing blocks near South Clinton Street and South Dubuque Street**;
+  - the **Kirkwood Avenue / Burlington Street / Iowa Avenue / Harrison Street** low points;
+  - vulnerable commercial parcels including **Kelly’s Auto Center** and **Professional Muffler**.
+- Include **interior-drainage pump stations, flap gates/check valves, emergency power, and storage**. A wall without drainage isolation can trap stormwater behind it during a river flood.
+- Design walls and closures only after a detailed hydraulic assessment confirms that they do not transfer damaging water levels to unprotected areas or constrain bridge/river conveyance.
+
+### 3. Keep evacuation, emergency, and hospital/campus access functional
+**Inundated links:** East Benton Street, West Benton Street, Highway 6 East, Kirkwood Avenue, South Clinton Street, South Dubuque Street, West Burlington Street, West Harrison Street, and West Iowa Avenue.
+
+- Designate **flood-stage-specific closure points** for each listed road. Close roads before vehicles encounter water; 4.95 m of possible off-channel depth makes “drive-through” access unacceptable.
+- Preserve at least one **high-ground north–south and east–west emergency route** outside the modeled inundation extent. Pre-identify alternates rather than relying on river crossings or low downtown streets.
+- Where access must be retained, consider **raising short roadway segments**, hardening approaches, and protecting critical intersections with deployable barriers—particularly where roads act as low conveyance paths from the river into downtown.
+- Install **real-time depth sensors, automated warning signs, and movable barricade gates** at known low points, especially along Benton, Burlington, Iowa Avenue, Clinton, Dubuque, and Kirkwood corridors.
+- Prepare transit and campus shuttle detours in advance; parking evacuation plans should move vehicles from **Lots 7 and 64** early in the forecast window.
+
+### 4. Treat bridges and trails as flood conveyance and debris-risk locations
+**Targets:** Hancher Footbridge, Iowa River Corridor Trail, Iowa River Trail, Lagoon Shelter House.
+
+- Establish **early closure thresholds** for Hancher Footbridge and the river trails based on forecast stage, velocity, debris loading, and freeboard—not merely whether the deck is visibly wet.
+- Inspect bridge piers, abutments, approaches, lighting, and trail underpasses for **scour and debris accumulation** after each major event.
+- Reconstruct low trail segments as **flood-tolerant, easily repairable facilities**: elevated boardwalks where needed, armored approaches, removable signage/furnishings, and native floodplain vegetation rather than vulnerable paved surfaces.
+- Convert the Lagoon Shelter House area and adjacent riverfront open space into **intentional flood storage and conveyance space**; elevate or replace the shelter with a flood-resilient structure if continued use is desired.
+
+### 5. Reduce exposure in repeatedly flooded commercial and parking areas
+For **Kelly’s Auto Center, Professional Muffler, and low-lying parking/service parcels**, the most cost-effective solution may not be perimeter protection.
+
+- Require elevated electrical/mechanical systems, flood-resistant finishes, protected waste-oil/chemical storage, and **anchored tanks/containers**.
+- Establish a **vehicle and inventory removal protocol** triggered by forecast stage, including off-site staging locations.
+- Consider voluntary acquisition, relocation, redevelopment with elevated finished floors, or conversion of the most deeply flooded parcels to **parking, open space, or flood-compatible uses**.
+- Avoid placing new essential services, basement uses, or high-value storage in these areas unless protected to the selected design event.
+
+### 6. Expand floodplain storage and reduce damaging flow paths
+The image shows substantial river-adjacent open land, trail space, lawns, and parking that can be designed to safely accept floodwater.
+
+- Restore or expand **connected floodplain benches, wetlands, bioswales, and riparian vegetation** in river-adjacent open areas, particularly south of the campus/downtown core and around park/trail corridors.
+- Regrade selected open spaces so they fill in a controlled sequence, **keeping water away from building clusters and road approaches**.
+- Replace or retrofit oversized impervious parking areas with **permeable pavement, bioretention, and offline detention**, reducing local rainfall runoff during river-flood conditions.
+- Preserve hydraulic connections and avoid fill that would displace floodwater toward downtown, campus labs, or neighborhood streets.
+
+### 7. Improve river-operation and warning coordination
+Because the scenario is driven by very high upstream discharge, local protection needs to be paired with upstream forecasting and operations.
+
+- Use a joint **forecast-to-action matrix** incorporating upstream discharge, predicted stage at Iowa City, rainfall, and expected duration above critical elevations.
+- Coordinate, where operationally and legally feasible, with upstream reservoir and watershed managers to reduce peak coincidence and provide maximum lead time. This should be viewed as **risk reduction, not guaranteed flood prevention**.
+- Establish staged actions—for example: asset removal, parking closure, trail closure, deployable-barrier installation, building shutdown, and road closures—at forecast thresholds below the modeled 31.53-ft event.
+- Maintain backup communications and emergency power for flood monitoring, pumps, gates, and public alerts.
+
+## Recommended implementation sequence
+
+**Before the next flood season**
+1. Map building opening elevations, utilities, storm outfalls, and roadway low points against this modeled flood surface.  
+2. Install backflow devices, portable/deployable barriers at defensible locations, flood sensors, closure gates, and backup power.  
+3. Create building-specific plans for the Hydraulics Laboratory/Annex and commercial hazardous-material sites.  
+4. Formalize road, bridge, parking, and trail closure triggers.
+
+**1–5 years**
+1. Permanently floodproof/elevate critical campus and downtown systems.  
+2. Build compartmentalized riverfront protection with interior drainage pumping.  
+3. Raise or harden priority emergency-access segments.  
+4. Restore floodplain storage and retrofit river-adjacent parking/open-space areas.
+
+**Long term**
+1. Relocate or convert the deepest/recurrently flooded commercial uses.  
+2. Maintain a flood-compatible river corridor rather than intensifying development in the areas shown to be inundated.  
+3. Reassess design elevations using updated hydrology, climate-adjusted rainfall, and future river-operation assumptions.
+
+The central planning principle is to **protect dense, critical assets with engineered systems while deliberately allowing parks, trails, selected parking, and flood-compatible open areas to store or convey water**. Given the modeled depth, trying to exclude water everywhere would be expensive, fragile, and likely shift risk elsewhere.",,,,,,,,,,,,,
+item_0018,"At the modeled Iowa River stage of **31.53 ft** (USGS 05454500) and discharge of **1,163.8 m³/s**, flooding is no longer limited to the immediate riverbank: the simulation identifies road, trail, parking, laboratory, commercial, and bridge/approach impacts, with localized off-channel depths up to **4.95 m**. The mitigation approach should therefore combine immediate access/safety actions with targeted floodproofing and floodplain-storage measures—not rely solely on small barriers.
+
+## Priority actions during an event
+
+1. **Close and physically barricade inundated low routes early**
+   - Pre-stage signed hard closures at **East/West Benton Street, West Burlington Street, West Harrison Street, West Iowa Avenue, Kirkwood Avenue, South Clinton Street, South Dubuque Street, and Highway 6 East**.
+   - Do not use cones alone where water can reach vehicle depth; use gates or water-filled barriers at approaches.
+   - Establish detours on higher ground before those streets become impassable, protecting emergency access between the University of Iowa campus, downtown, and south-side neighborhoods.
+
+2. **Protect and evacuate University hydraulic facilities**
+   - The **C. Maxwell Hydraulics Laboratory** and **Hydraulics East Annex** should have a flood emergency plan triggered below the modeled 31.53-ft stage:
+     - relocate portable instruments, chemicals, computers, vehicles, and irreplaceable research materials;
+     - isolate electrical service, fuel, compressed-gas systems, and hazardous-material storage;
+     - install backflow prevention on drains and seal low openings;
+     - deploy demountable barriers only where the building is structurally suitable.
+   - Given modeled depths up to 4.95 m outside the mapped channel, personnel evacuation and utility shutoff must take precedence over attempting to defend every opening.
+
+3. **Close river recreation infrastructure before overtopping**
+   - Close the **Hancher Footbridge**, **Iowa River Corridor Trail**, **Iowa River Trail**, and the **Lagoon Shelter House** area before water reaches bridge decks, trail underpasses, or fast-flowing bank areas.
+   - Gate trail entrances farther from the river so people are not able to bypass closure points.
+   - Inspect bridge piers, abutments, trail-bank slopes, and utility crossings after recession for scour and undermining.
+
+4. **Move vehicles and protect vulnerable parking areas**
+   - Issue mandatory vehicle-removal notices for **Lot 7, Lot 64**, and low-lying commercial lots, including those serving **Kelly’s Auto Center** and **Professional Muffler**.
+   - Use these lots as “sacrificial” flood-storage surfaces only after vehicles, waste containers, fuels, and mobile equipment are removed.
+   - Require auto-related businesses to elevate or remove oils, batteries, solvents, tires, and parts inventories to prevent contamination.
+
+## Site-specific permanent mitigation
+
+### 1. Build a connected, demountable protection system for the most valuable facilities
+For the laboratory and key downtown-edge facilities, use a combination of:
+- permanent raised door thresholds and flood doors;
+- deployable panel or water-filled barriers;
+- flood-rated utility penetrations;
+- raised electrical switchgear, generators, telecommunications, and mechanical equipment;
+- sump pumps with backup power and monitored check valves.
+
+Set design elevations using a current hydraulic study that includes **freeboard, wave action, debris loading, and future flood conditions**. Do not design merely to the captured 31.53-ft stage; that stage should be an operational trigger, not necessarily the design flood.
+
+### 2. Keep the river corridor available for conveyance and storage
+The image shows a narrow, highly developed urban river corridor with trails, parking, roads, and institutional buildings close to the channel. Avoid adding fill, walls, or redevelopment that narrows the effective floodway.
+
+Recommended actions:
+- restore and lower selected river-adjacent open areas into floodable benches where feasible;
+- convert repeatedly inundated lawn/parking margins near the river into native floodplain vegetation and wetland storage;
+- remove or relocate nonessential sheds, parking, and low-value site improvements from the active floodplain;
+- use flood-compatible trail materials and breakaway/repairable furnishings in areas expected to flood.
+
+This will not eliminate a major Iowa River flood, but it can reduce velocities, erosion, debris accumulation, and building exposure.
+
+### 3. Improve stormwater and backflow control in the street network
+Flooding at the listed streets can be worsened by river water backing into storm sewers. Target the Benton–Burlington–Iowa Avenue–Clinton/Dubuque corridor for:
+- outfall flap gates/check valves where hydraulically appropriate;
+- remotely monitored gate status and pump-station alarms;
+- separation of sanitary sewer vulnerabilities from storm drainage;
+- inlet protection and debris-management plans;
+- strategically placed temporary pumps only where they discharge to a viable protected location—pumping into an already high river is generally ineffective.
+
+Because gravity drainage may be unavailable during high river stages, the system should be modeled for coincident river flooding and intense rainfall.
+
+### 4. Make Highway 6 and downtown access resilient rather than assuming every link can remain open
+Since **Highway 6 East** and several north–south downtown connections are inundated in the scenario:
+- identify at least two flood-resilient emergency routes and sign them in advance;
+- elevate critical control cabinets, signals, and communications equipment at affected intersections;
+- identify road segments where targeted raising is practical without pushing floodwater toward adjacent properties;
+- use formal closure triggers tied to gage forecasts and roadway-depth sensors.
+
+Road raising should be selective. Continuous roadway embankments can act as unintended levees and trap water behind them unless culverts, drainage, and property impacts are designed together.
+
+## Land-use and property-risk actions
+
+1. **Restrict new critical uses in the modeled inundation area**
+   - Avoid siting emergency operations, critical laboratories, data centers, hazardous-material storage, and ground-floor essential services in the areas inundated in this simulation.
+   - Require new or substantially improved buildings in the affected corridor to elevate occupied floors, critical utilities, and emergency power above the adopted flood-protection elevation.
+
+2. **Target buyout, relocation, or conversion where repetitive loss is likely**
+   - For low-value, flood-prone commercial/storage uses near the river, compare repeated repair costs with acquisition, relocation, or conversion to open space/flood storage.
+   - The modeled **$69.55 million** damage estimate supports prioritizing projects by avoided loss, critical-service continuity, and environmental risk—not only by parcel value.
+
+3. **Use flood-compatible redevelopment**
+   - Ground floors in vulnerable areas can be designed for parking, storage of flood-tolerant materials, or open/pass-through space, rather than high-value occupancies.
+   - Require wet-floodproofing only for appropriate noncritical spaces; use dry floodproofing or elevation for occupied and critical spaces.
+
+## Monitoring, triggers, and coordination
+
+Create an operational flood matrix for the Iowa River at Iowa City gage (**05454500**) with actions tied to forecast stage, rate of rise, and duration:
+
+- **Early watch:** inspect barriers, notify facility managers, suspend new parking in Lots 7/64, begin moving laboratory assets.
+- **Pre-closure stage:** close trails and the Hancher Footbridge, deploy barriers, remove vehicles/equipment, inspect storm outfalls.
+- **Major-flood stage / approaching the modeled 31.53-ft condition:** close listed inundated streets, isolate utilities in exposed buildings, prohibit entry into flood zones, and activate detour and emergency-access plans.
+- **Re-entry:** require electrical, structural, contamination, pavement, bridge-scour, and sewer inspections before reopening.
+
+Coordinate these actions among the City of Iowa City, University of Iowa, Johnson County emergency management, Iowa DOT, property owners, and reservoir/river-system operators. Reservoir releases and upstream conditions should inform forecasting, but local plans should assume that major inflows can still produce damaging flood stages.
+
+## Best near-term investment package
+
+If funding is limited, prioritize:
+
+1. floodproofing and utility elevation at the two hydraulics facilities;
+2. permanent closure gates/signage and gage-triggered plans for the listed streets, trails, and Hancher Footbridge;
+3. vehicle/material relocation protocols for Lots 7/64 and flood-prone auto businesses;
+4. storm-sewer backflow and drainage assessment in the Benton–Burlington–Iowa Avenue corridor;
+5. floodplain restoration/open-space conversion at river-adjacent low-value areas.
+
+This package directly addresses the facilities and transportation links identified as inundated while preserving the Iowa River corridor’s ability to carry and store floodwater.",,,,,,,,,,,,,
+item_0019,"At a modeled Iowa River stage of **31.53 ft** (discharge **~1,164 m³/s**), flooding is concentrated in the river-adjacent low ground: the **Iowa River Corridor Trail** and likely portions of its approaches, landscaping, and riverfront access areas. With up to **3.21 m (10.5 ft) of overbank depth** elsewhere in the modeled view and estimated losses near **$69.6M**, the priority should be protecting occupied buildings and critical access while treating the immediate river edge and trail as floodable space.
+
+### 1. Make the Iowa River Corridor Trail a designed floodway
+- **Close the trail early** using stage-triggered gates/signage at all access points; do not wait for visible overtopping. At this stage, swift/deep water and debris are likely greater risks than simple ponding.
+- Use **removable railings, flood-tolerant lighting, benches, signs, and trash receptacles** along the trail. Anchor or store movable furnishings before events.
+- Rebuild vulnerable trail segments with **washout-resistant pavement/base materials**, armored edges, and drainage that prevents undermining when floodwater recedes.
+- Mark a **high-water inspection/reopening protocol**: inspect for scour, pavement voids, bank slumping, sediment, and contaminated debris before reopening.
+
+### 2. Protect the Iowa Memorial Union/riverfront building edge and nearby downtown blocks
+The large institutional/commercial buildings east of the river appear immediately behind the low riverfront promenade and road network. Even if they are not inundated in this simulation, they should be protected against a modest increase beyond this event.
+
+- Install or pre-stage **demountable flood barriers** at low points between the river walk/trail and building/service areas—especially loading areas, garages, below-grade entries, stairwells, and utility penetrations.
+- Use **deployable flood doors/shields** for basement entrances and loading docks rather than relying solely on sandbags.
+- Raise or protect vulnerable **electrical switchgear, generators, telecom equipment, HVAC controls, fuel tanks, and elevator equipment** above the modeled flood level plus code-required freeboard. Seal conduit and utility penetrations below that elevation.
+- Add **backflow preventers and isolation valves** to sanitary and storm connections. Floodwater entering sewers can back up into lower building levels even where exterior inundation is limited.
+- Maintain portable pumps only as a secondary measure; pumps should discharge to a location that remains hydraulically viable during high river stage.
+
+### 3. Preserve emergency access and avoid trapping people at the riverfront
+- Identify the roads and pedestrian routes that remain dry at the 31.53-ft trigger and designate them as **emergency-only access corridors**.
+- Establish signed detours away from the riverfront trail and bridge approaches. The nearby pedestrian bridge may remain structurally passable, but approaches should be closed if water, debris, or scour reaches them.
+- Prepare building-specific evacuation routes toward higher ground east/south of the riverfront, with accessible alternatives for mobility-impaired occupants.
+- Pre-position barricades so that riverfront parking, service drives, and trail ramps can be closed rapidly without staffing every entrance.
+
+### 4. Improve river-edge resilience without constricting the river
+- Favor a **setback, segmented protection line** around high-value structures and critical streets rather than continuous new walls tight to the riverbank. A continuous near-bank wall can worsen local hydraulic effects, complicate drainage, and reduce public river access.
+- Where feasible, regrade portions of the open lawn/riverfront landscape into **shallow floodable terraces, bioswales, or flood-tolerant planting zones**. These will not stop a major Iowa River flood, but they can reduce local runoff, erosion, and cleanup burden.
+- Stabilize erodible banks and trail margins using **native deep-rooted vegetation, engineered soil lifts, toe protection, and targeted armoring** at bridge/trail interfaces.
+- Keep vegetation and structures out of locations that could trap floating debris against bridge piers, trail ramps, or drainage outlets.
+
+### 5. Use staged operational triggers tied to USGS gage 05454500
+Create a written action plan based on forecasted stage, rate of rise, and uncertainty—not only the observed stage.
+
+Suggested structure:
+- **Watch threshold:** inspect drainage, confirm barrier inventory, notify riverfront tenants and campus/downtown facilities staff.
+- **Trail-closure threshold:** close the Iowa River Corridor Trail and low river access points before inundation or unsafe approach conditions.
+- **Barrier-deployment threshold:** deploy protection at low doors, ramps, loading/service areas, and critical utility openings.
+- **Critical threshold near/above the modeled 31.53-ft condition:** restrict riverfront vehicle access, protect critical equipment, staff emergency operations, and inspect bridge/trail approaches for scour and debris.
+
+Threshold elevations should be finalized using surveyed ground elevations and flood-model outputs, with **freeboard for forecast error, wave action, debris, and localized drainage backup**.
+
+### 6. Reduce the $69.6M loss exposure through targeted investment
+Prioritize investments in this order:
+1. **Life safety and closure systems** for trail/riverfront access.
+2. **Protection of critical building utilities and below-grade openings.**
+3. **Flood-resistant retrofits** to trail, landscaping, lighting, and public-realm assets that are repeatedly exposed.
+4. **Demountable barriers and drainage/backflow upgrades** at the most exposed building and street interfaces.
+5. **Longer-term floodplain restoration/setback measures** where open space permits.
+
+### Key scenario-specific takeaway
+This image and simulation support a strategy of **sacrificing the river-adjacent trail and low landscape deliberately**, while preventing floodwater from crossing into the dense institutional/commercial blocks immediately east of the river. The trail should be built and operated as a recoverable floodable asset; building entrances, utilities, service areas, and emergency routes should be the hard-protected elements.",,,,,,,,,,,,,
+item_0020,"Close West Burlington Street and the Iowa River Corridor Trail where inundated
+Evacuate or restrict access to flooded laboratory and annex areas
+Deploy flood barriers and protect critical utilities at affected buildings
+Keep the public away from floodwater and monitor Iowa River stage continuously
+Inspect bridges, road approaches, and damaged infrastructure before reopening",,,,,,,,,,,,,
+item_0021,"At a **31.53-ft stage** on the Iowa River at Iowa City and **1,163.8 m³/s upstream discharge**, this scenario is not a nuisance flood: water is reaching the river-adjacent campus/industrial frontage, the trail, parking, and **West Burlington Street**, with modeled off-channel depths up to **4.92 m (16 ft)**. The priority should be protecting life-safety access and critical laboratory/utility functions—not trying to keep the entire river corridor dry.
+
+## Site-specific priorities
+
+### 1. Protect the C. Maxwell Hydraulics Laboratory and Hydraulics East Annex
+These are immediately beside the river and in the modeled inundation footprint.
+
+- Install or upgrade **permanent deployable flood barriers** around the buildings’ vulnerable river-facing sides and low perimeter openings. Design elevations should include freeboard above the modeled flood level, wave/current effects, and uncertainty—not simply the 31.53-ft gage level.
+- **Floodproof doors, loading bays, vents, utility penetrations, and below-grade openings** with demountable panels, watertight doors, backflow protection, and sealed conduit penetrations.
+- Raise or relocate exposed **electrical switchgear, generators, communications equipment, pumps, laboratory controls, and hazardous-material storage** above the design flood elevation. Protect fuel tanks and chemical storage from flotation or release.
+- Provide **independent sump pumping** with emergency power, but do not rely on pumps as the sole defense against several feet of external floodwater.
+- Create a building-specific closure plan: move equipment and research materials early, shut down utilities safely, and prohibit occupancy before surrounding access routes become impassable.
+
+### 2. Keep West Burlington Street / the bridge approach from becoming an unsafe flood path
+The image shows West Burlington Street and its river crossing as a key transportation connection immediately upstream of the exposed facilities.
+
+- Establish **stage-based road and bridge closure triggers** using USGS gage 05454500 forecasts, not visual observations alone. Close the roadway before water crosses travel lanes or undermines shoulders/approaches.
+- Place preplanned **gates, barricade anchor points, variable-message signs, and detour signage** at approaches far enough from the flooded section to prevent vehicles entering the hazard area.
+- Protect low roadway edges, drainage inlets, and embankment/approach slopes from **erosion and scour**. Inspect bridge abutments, retaining walls, and approach pavement after every high-water event.
+- Do **not** add fill, walls, or temporary barriers that constrict the bridge opening or redirect high-velocity floodwater toward the laboratories or opposite bank. Any roadway floodwall must be hydraulically modeled for backwater and scour effects.
+
+### 3. Treat Lot 7 as sacrificial/managed flood storage rather than a protected asset
+Because **Lot 7** is inundated, repeatedly defending it with sandbags or small berms is unlikely to be cost-effective and could displace water toward buildings.
+
+- Use Lot 7 as a **planned floodable area**: post seasonal flood-risk information, prohibit parking when forecast stages exceed a trigger, and provide alternative parking before closure.
+- Convert low portions to **permeable pavement, bioswales, native floodplain landscaping, and flood-tolerant lighting/signage** where feasible.
+- Elevate electrical equipment, pay stations, and transformers; use removable furniture and fixtures.
+- If access must be retained during lesser floods, construct a narrowly targeted **raised access route** only after confirming it will not block flood conveyance or increase building flood depths.
+
+### 4. Restore the Iowa River Corridor Trail as a floodable greenway
+The inundation of the **Iowa River Corridor Trail** is expected in this setting and should be managed as a life-safety and recovery issue.
+
+- Install **automatic/rapid trail-closure gates**, warning signs, and gage-linked alerts at all trail entrances. Flooded trails can conceal drop-offs, currents, contaminated water, and bank failures.
+- Use **washout-resistant trail materials**, elevated boardwalk sections only where justified, and easily replaceable trail furnishings.
+- Maintain or expand **native riparian vegetation and floodplain benches** along the riverward side. These will not stop a major flood, but they can reduce erosion, trap sediment, and lessen damage to trail edges and utilities.
+- Identify post-flood inspection points for pavement undermining, slope failures, debris accumulation, and contaminated sediment before reopening.
+
+## Corridor-scale mitigation
+
+### 5. Preserve conveyance and avoid transferring flood risk
+Only about **9.9% of the image area is inundated**, but the concentration of high-value infrastructure creates an estimated **$69.55 million** damage exposure. The response should focus on strategic protection while keeping the river corridor able to carry floodwater.
+
+- Avoid new ground-floor critical uses, parking expansions, or fill in the active floodplain between the river and campus/industrial buildings.
+- Where redevelopment is possible, move vulnerable storage, mechanical functions, and parking **away from the river edge** and place resilient/open-space uses closest to the river.
+- Conduct a detailed **2D hydraulic and scour analysis** before constructing levees, floodwalls, raised roads, or bank armoring. In this narrow, bridge-influenced reach, a localized barrier can raise water levels or increase velocities elsewhere.
+- Strengthen riverbank stabilization only at vulnerable infrastructure locations, using **bioengineered stabilization** where possible and hardened protection only where erosion threatens structures, utilities, or road approaches.
+
+### 6. Improve warning, operations, and recovery
+- Tie University/City emergency actions to forecast thresholds from **USGS gage 05454500**, rainfall forecasts, upstream flow forecasts, and coordination with **Coralville Lake/USACE** operations where applicable.
+- Use staged actions:  
+  - **Early forecast:** remove vehicles from Lot 7; stage barriers and pumps; relocate portable equipment.  
+  - **Escalating stage:** close trail and river-adjacent parking; deploy building barriers; isolate vulnerable utilities.  
+  - **Major-flood threshold:** close West Burlington Street/affected approaches; evacuate exposed buildings; restrict river access and inspect bridge approaches.  
+- Pre-negotiate emergency contracts for barrier deployment, debris removal, electrical inspections, environmental cleanup, and pavement/trail repair.
+- After recession, inspect for **scour, foundation settlement, contaminated floodwater impacts, damaged electrical systems, and mold** before reoccupation.
+
+## Best near-term package
+The most practical first investments are: **(1)** building-level floodproofing and utility elevation at the hydraulics facilities, **(2)** gage-triggered closures and erosion protection for West Burlington Street/bridge approaches, **(3)** managed flood operations for Lot 7, and **(4)** a deliberately floodable, quickly recoverable river trail and riparian corridor. This protects the highest-value assets while avoiding measures that could worsen flooding or current velocities in the Iowa River corridor.",,,,,,,,,,,,,
+item_0022,"Monitor Iowa River levels and forecasts
+Restrict access to inundated low-lying riverbank areas and trails
+Inspect river-adjacent drainage and protect vulnerable ground-level entrances if water rises",,,,,,,,,,,,,
+item_0023,"At the simulated **31.53-ft stage** on the Iowa River at Iowa City (≈**1,164 m³/s** upstream discharge), flooding is concentrated along the river edge. The image shows a constrained downtown frontage: the river-adjacent **Iowa River Corridor Trail**, low terraced/plaza areas, bridge landing/approach areas, and buildings immediately east of the river. With modeled water depths reaching **3.21 m outside the mapped channel**, this should be treated as a building-protection and life-safety event—not merely a trail-closure event.
+
+## Priority actions for this scenario
+
+### 1. Close and physically secure the riverfront corridor early
+- Close the **Iowa River Corridor Trail** and all ramps, stairs, overlook/terrace areas, and under-bridge connections before water reaches them.
+- Install locked gates or swing barriers at trail access points, rather than relying only on temporary signs; riverfront paths can become rapidly isolated by water.
+- Use visible stage-based triggers tied to USGS gage **05454500**—for example, begin closures and barrier deployment well before the modeled 31.53-ft stage, with final thresholds calibrated from local elevation surveys.
+
+### 2. Protect the low river-facing building edges with deployable barriers
+- The buildings immediately east of the river have several exposed entrances, loading/service zones, and low-grade interfaces facing the riverfront/terraces.
+- Pre-engineer attachment points for **demountable flood panels or flip-up barriers** along the river-facing ground-floor perimeter, focused on:
+  - doors and glazing facing the stepped riverfront;
+  - service/loading doors near the south and west sides of the large central building complex;
+  - low points where walkways or driveway grades direct floodwater toward buildings.
+- Design barriers for the modeled external depth plus wave/debris allowance and freeboard; 3.21 m depth indicates that sandbags alone are not an adequate primary building-protection measure.
+
+### 3. Floodproof critical ground-floor systems
+- Move or elevate electrical switchgear, telecom, IT, HVAC controls, fire-pump controls, elevators’ critical components, and emergency generators above the design flood elevation.
+- Where elevation is impractical, use watertight enclosures and provide temporary isolation procedures.
+- Install flood-resistant doors or covers at utility rooms and below-grade access points. Preventing a relatively small utility-room flood can avoid prolonged downtown service interruptions.
+
+### 4. Install backflow protection and manage trapped rainfall
+- Add or verify **backflow preventers, flap gates, and isolation valves** on stormwater and sanitary connections serving the riverfront blocks. At high river stage, the river can surcharge outfalls and send water inland through the drainage system.
+- Pair perimeter barriers with pumped interior drainage/sump capacity; barriers without a plan for rainfall and seepage can trap water behind the protected line.
+- Use portable pumps only as backup to permanent pumping and protected power, not as the sole defense.
+
+### 5. Keep the riverfront park and terraces sacrificial
+- The open lawn, riverwalk, terraces, and landscape strip should be intentionally managed as floodable conveyance/storage space.
+- Avoid filling or walling off every low riverfront area. A continuous tall wall could shift floodwater toward bridge approaches, streets, or adjacent blocks.
+- Regrade localized depressions so that, when the river recedes, water drains back to the river or designated pumped collection points rather than ponding against buildings.
+- Use flood-tolerant paving, removable furnishings, anchored trash receptacles, and durable native riparian vegetation in these areas.
+
+### 6. Protect bridge-adjacent access and maintain emergency routes
+- The bridge landing and adjacent intersections are close to the river and may be critical for pedestrian and vehicle access during an event.
+- Identify an **inland emergency access route** that does not rely on the riverfront street/trail network.
+- Pre-position barricades to prevent vehicles from entering inundated low points near the bridge and waterfront.
+- Inspect bridge abutment/approach drainage and erosion protection after major events; high flows can undermine slopes, trail approaches, and retaining edges even where the bridge deck remains open.
+
+### 7. Use temporary measures only where they are genuinely effective
+For the modeled event:
+- Use **water-filled barriers or engineered temporary barriers** for short gaps between permanent defenses, driveway openings, and low pedestrian connections.
+- Do not rely on sandbags for long, high barriers around major downtown structures; the probable depth and required length make them labor-intensive and prone to seepage/failure.
+- Stage barrier materials, pumps, traffic control devices, and backup power outside the inundation zone, with alternate delivery access in case riverfront streets close.
+
+## Longer-term mitigation investments
+
+1. **Downtown riverfront floodwall/berm segments—selectively placed.**  
+   Build short, integrated, deployable protection segments at the most vulnerable building frontage and low-access gaps, while retaining floodable park/terrace space and avoiding adverse water displacement.
+
+2. **Elevate or redesign the Iowa River Corridor Trail.**  
+   Where practical, raise selected trail segments or construct them with sacrificial, easily repairable surfaces. In lower areas, prioritize rapid closure, durable materials, and erosion-resistant foundations rather than trying to guarantee dry access during extreme river stages.
+
+3. **Flood-resilient redevelopment requirements.**  
+   For future renovation or redevelopment of the river-adjacent blocks, require elevated finished floors or floodproofed ground floors, elevated mechanical/electrical systems, wet-floodproofed parking/storage where appropriate, and no essential public-safety functions at low elevation.
+
+4. **Upstream and watershed measures.**  
+   Coordinate with regional partners on floodplain restoration, wetland/storage projects, and runoff reduction upstream. These will not replace downtown defenses during an event of this magnitude, but they can reduce peak flows and frequency over time.
+
+## Operational trigger recommendation
+
+Because the estimated loss is about **$69.6 million (2023 USD)** despite only about **11.7% of the visible area** being inundated, the city should use a formal stage-action plan:
+
+- **Watch:** inspect barriers, notify riverfront tenants/facilities, secure movable assets.
+- **Deployment:** close trail/terraces, install barriers, isolate vulnerable utilities, activate drainage monitoring.
+- **Emergency:** prohibit public access to waterfront and bridge-adjacent low areas, protect emergency routes, monitor seepage and structural/erosion conditions.
+- **Recovery:** inspect trail foundations, bank protection, utilities, contaminated sediment/debris, and building systems before reopening.
+
+The most effective near-term strategy here is a layered system: **early trail closure, deployable building-edge barriers, protected utilities and drainage, and a deliberately floodable riverfront landscape.**",,,,,,,,,,,,,
+item_0024,"Restrict access to the inundated C. Maxwell Hydraulics Laboratory area.
+Inspect and protect electrical, mechanical, and hazardous-material systems at the facility.
+Monitor Iowa River stage and expand closures if water rises further.",,,,,,,,,,,,,
+item_0025,"Close inundated streets, trails, and the Hancher Footbridge; post barricades and detours.
+Evacuate or protect occupants and critical equipment at inundated facilities.
+Keep vehicles and pedestrians out of floodwater; conduct swift-water rescue readiness.
+Deploy flood barriers and pumps where feasible around exposed building perimeters.
+Monitor Iowa River stage and issue updated public alerts and road-closure information.",,,,,,,,,,,,,
+item_0026,"Close and barricade inundated Iowa River Corridor Trail segments
+Keep pedestrians and vehicles out of flooded areas
+Monitor Iowa River stage and update closures as conditions change
+Inspect nearby riverbank infrastructure and building perimeters for erosion or seepage",,,,,,,,,,,,,
+item_0027,"At a modeled Iowa River stage of **31.53 ft** and discharge of **1,163.8 m³/s**, this is not a nuisance-flood condition: up to **4.95 m of off-channel depth** and roughly **$69.6M in modeled damage** justify a combination of immediate protection, corridor-scale storage, and targeted relocation/floodproofing. The most vulnerable pattern is the low-lying river-adjacent transportation, parking, trail, university, and commercial land on both banks.
+
+## Immediate operational actions
+
+1. **Close and control inundated transportation corridors early**
+   - Pre-identify closure points and deploy barricades before water reaches **East/West Benton Street, Highway 6 East, Kirkwood Avenue, South Clinton Street, South Dubuque Street, West Burlington Street, West Harrison Street, and West Iowa Avenue**.
+   - Establish signed detours that do not rely on river crossings likely to become isolated.
+   - Prohibit access to **Hancher Footbridge** and the **Iowa River Corridor/Iowa River Trail** during high stages; remove or secure benches, signage, bins, and other floatable trail assets.
+
+2. **Protect people and movable assets first**
+   - Evacuate vehicles and equipment from **Lot 7, Lot 64**, university/medical-related parking, and flood-prone commercial lots, including **Kelly’s Auto Center** and **Professional Muffler**, before roadway access is cut off.
+   - Move laboratory instruments, chemicals, electronics, records, and portable equipment at the **C. Maxwell Hydraulics Laboratory** and **Hydraulics East Annex** to elevated floors or off-site storage.
+   - Conduct hazardous-material and fuel-tank checks at auto-service and industrial sites; secure drums, waste-oil tanks, batteries, and compressed-gas cylinders against flotation or release.
+
+3. **Use forecast-triggered protective deployment**
+   - Set stage/discharge triggers tied to the Iowa River gage **05454500** for:
+     - parking evacuation,
+     - trail/footbridge closure,
+     - road closure,
+     - installation of temporary barriers,
+     - building shutdown/evacuation.
+   - Because modeled depths can reach nearly 5 m outside the channel, do **not** treat sandbags alone as a building-protection solution. Use engineered modular barriers only where they can tie into high ground and where pumps, seepage control, and emergency access are feasible.
+
+## Highest-value physical mitigation
+
+### 1. Create and preserve flood storage along the river corridor
+The image shows broad river-adjacent open land, trails, athletic/open-space areas, and parking that can function as intentional floodable space. These areas should be the first line of defense rather than attempting to hold water out everywhere.
+
+- Convert selected river-edge lawns, surface parking areas, and low-value parcels into **floodable parks, wet prairie, side-channel/wetland storage, and overflow benches**.
+- Lower or regrade appropriate riverfront park areas so they accept floodwater in a controlled manner, with robust turf/wetland vegetation and debris-tolerant furnishings.
+- Use floodable open space near the river to reduce pressure on downtown streets and building edges.
+- Avoid fill, new critical facilities, or new enclosed development in areas that are repeatedly inundated at stages near this scenario.
+
+### 2. Establish localized flood-protection lines for critical facilities—not continuous river walls
+A continuous high wall through downtown/campus would be costly, visually damaging, and could shift water to unprotected areas. Instead:
+
+- Design **short, demountable or landscaped protection segments** around the **Hydraulics Laboratory/Annex**, essential university utilities, and other critical facilities where a defensible tie-in to high ground exists.
+- Include seepage cutoffs, backflow prevention, sump/pump capacity, protected electrical service, and access gates; a barrier without these components may fail from underseepage or interior drainage.
+- Set crest elevations using the modeled flood level plus freeboard and climate-adjusted uncertainty, not merely the current 31.53-ft simulation.
+- Maintain river conveyance and avoid narrowing the channel or obstructing bridge openings.
+
+### 3. Floodproof or elevate repeatedly affected structures
+For facilities expected to remain in place:
+
+- Elevate electrical panels, switchgear, HVAC controls, generators, IT equipment, chemical storage, and critical mechanical systems above the design flood elevation plus freeboard.
+- Use flood-resistant ground-floor materials, raised door thresholds, deployable flood panels, sealed utility penetrations, and check valves.
+- For the **C. Maxwell Hydraulics Laboratory** and **Hydraulics East Annex**, develop a laboratory-specific continuity plan: elevated instrument platforms, protected data systems, emergency shutdown procedures, chemical inventory controls, and rapid-removal protocols.
+- For auto-oriented businesses such as **Kelly’s Auto Center** and **Professional Muffler**, prioritize elevated fluid storage, protected waste-oil containment, movable inventory procedures, and a vehicle-removal trigger well before site access is lost.
+
+## Transportation and access resilience
+
+1. **Redesign low points on Benton, Burlington, Iowa Avenue, and adjacent streets**
+   - Evaluate whether selected low roadway segments should be raised, fitted with improved drainage, or deliberately designated as controlled flood routes.
+   - Where raising a road would obstruct floodplain flow and worsen neighboring flooding, favor closure-and-detour plans rather than elevation.
+
+2. **Provide dry-access redundancy**
+   - Identify at least two emergency routes to hospital, university, fire/EMS, and critical utility sites that remain outside the projected inundation footprint.
+   - Mark closure gates and automated warning signs at approaches to flooded streets; road users need warnings before reaching water, not at the waterline.
+
+3. **Use flood-tolerant parking management**
+   - Replace the most flood-prone surface parking with floodable green space where practical.
+   - Retain necessary parking as permeable, easily cleaned surfaces with clearly posted evacuation triggers and off-site overflow agreements.
+
+## Stormwater, utilities, and water-quality measures
+
+- Install or verify **backflow prevention** at storm-sewer outfalls and building laterals in the inundated corridor.
+- Increase pumping and storage capacity only where it will not simply discharge into a river already above the outfall elevation; pumps should serve protected interior zones and include backup power.
+- Map and protect electric, telecom, water, and sanitary-sewer assets in the affected blocks. Elevate vulnerable controls and install watertight vaults where feasible.
+- Create a post-flood debris, sediment, and contamination plan for trails, parks, parking lots, auto businesses, and laboratory facilities.
+
+## Upstream and watershed-scale actions
+
+- Coordinate flood operations and public messaging among Iowa City, the University of Iowa, Johnson County, the U.S. Army Corps of Engineers/Coralville Reservoir operators where applicable, and USGS.
+- Use reservoir-operation forecasts, tributary rainfall, soil moisture, and gage trends to extend warning lead time; the operational objective is to move people, vehicles, and critical equipment before roads become impassable.
+- Expand upstream runoff-reduction measures—wetland restoration, floodplain reconnection, riparian buffers, soil-health practices, and detention where hydrologically effective. These will not eliminate an event of this magnitude, but they reduce frequent-event peaks and improve recovery.
+
+## Priority sequence
+
+1. **Immediately:** gage-triggered closures, vehicle/equipment removal, trail/footbridge closure, hazardous-material controls, and protected emergency routes.  
+2. **Next 1–3 years:** floodproof/elevate critical university and commercial facilities; backflow protection; permanent closure infrastructure; floodable parking/open-space conversions.  
+3. **Long term:** acquire or convert the most repeatedly damaged low-value parcels; construct targeted demountable protection for critical assets; expand river-corridor storage and upstream runoff reduction.
+
+The key scenario-specific principle is to **keep the Iowa River corridor available to flood while defending only critical, defensible assets**. With off-channel depths approaching 5 m, reliance on ad hoc sandbagging and keeping low-lying roads/parking in their current role is unlikely to be reliable.",,,,,,,,,,,,,
+item_0028,"Close and barricade inundated streets, trails, parking lots, and the Hancher Footbridge
+Evacuate or shelter occupants at flood-threatened buildings and prohibit entry to flooded structures
+Deploy rescue resources and issue high-water warnings; prohibit driving through floodwater
+Protect critical utilities and facilities with temporary flood barriers and shut off unsafe electrical service
+Monitor Iowa River stage and discharge continuously and prepare for further closures or evacuations",,,,,,,,,,,,,
+item_0029,"Close West Burlington Street and the Iowa River Corridor Trail in inundated sections
+Evacuate and secure the C. Maxwell Hydraulics Laboratory and Hydraulics East Annex
+Barricade Lot 7 and relocate parked vehicles and equipment
+Keep people away from floodwater, riverbanks, and damaged utilities
+Monitor Iowa River stage and prepare for additional closures or evacuation orders",,,,,,,,,,,,,
+item_0030,"Close and barricade flooded sections of the Iowa River Corridor Trail
+Keep pedestrians and vehicles away from floodwater
+Monitor Iowa River stage and issue public flood alerts
+Inspect river-adjacent facilities and prepare protective measures",,,,,,,,,,,,,
+item_0031,"At a **31.53-ft stage** on the Iowa River, the simulation shows floodwater leaving the mapped channel and occupying the low river-adjacent area around the **C. Maxwell Hydraulics Laboratory / Hydraulics East Annex**, extending across the **Iowa River Corridor Trail**, **Lot 7**, and portions of **West Burlington Street**. The brown inundation immediately west of the river and beneath/near the Burlington Street bridge indicates a low-lying overbank pathway rather than isolated ponding. With modeled off-channel depths up to **4.92 m (16 ft)**, this is beyond a sandbag-only event.
+
+## Immediate operational measures
+
+1. **Close and barricade West Burlington Street approaches before water reaches travel lanes**
+   - Use hard closures at the low points near the river crossing and at driveway/side-street access to the laboratory complex.
+   - Establish signed detours well outside the flood zone; do not rely on “high-water” signs where water could be deep or fast-moving.
+   - Inspect bridge approaches, abutments, and nearby utility crossings for scour after recession.
+
+2. **Treat Lot 7 and the corridor trail as sacrificial flood-storage areas**
+   - Close Lot 7 early, remove all vehicles, and prohibit parking during flood watches.
+   - Close the Iowa River Corridor Trail before overtopping; use gates or fixed barriers at access points, rather than attempting to keep the trail open with temporary measures.
+   - Mark trail and parking access as flood-prone in navigation/parking systems so people are not directed toward the area.
+
+3. **Protect laboratory operations and hazardous/critical assets**
+   - Move mobile equipment, chemicals, records, IT equipment, and vehicles from the lowest floors of C. Maxwell and the East Annex well before the predicted crest.
+   - Shut down and isolate low-elevation electrical equipment, fuel systems, compressed-gas systems, and other utilities under a written flood shutdown plan.
+   - Install backflow prevention on sanitary/storm connections; floodwater entering through drains or utility penetrations can damage facilities even if doors are protected.
+   - Maintain emergency power and communications equipment above the modeled flood elevation plus freeboard, not in ground-level mechanical rooms.
+
+4. **Use temporary barriers only for limited, defendable perimeters**
+   - For doors, loading bays, and utility entrances that can be protected without trapping water, deploy engineered modular barriers or water-filled barriers.
+   - Avoid constructing ad hoc barriers that redirect water toward adjacent buildings, West Burlington Street, or bridge approaches.
+   - At depths approaching 4.92 m, barriers must be professionally designed for hydrostatic and seepage loads; sandbags are appropriate for minor seepage control, not primary protection.
+
+## Capital mitigation priorities
+
+1. **Floodproof or elevate the hydraulics facilities**
+   - Elevate electrical switchgear, HVAC controls, boilers, pumps, servers, and laboratory-control equipment above the design flood elevation with adequate freeboard.
+   - Where elevation is impractical, use dry-floodproofing: rated flood doors, deployable opening barriers, sealed wall penetrations, flood-resistant finishes, and interior sump/pump systems.
+   - Design repairs and retrofits for quick recovery: removable lower-wall panels, washable materials, raised outlets, and protected utility isolation points.
+
+2. **Create a controlled flood-resilient edge along the laboratory/road corridor**
+   - Evaluate a **setback berm, low floodwall, or deployable floodwall** protecting the laboratory complex and the critical West Burlington Street access route.
+   - Keep it discontinuous or provide designed relief/storage areas where needed; a continuous wall along the river can increase water levels, worsen velocities, or shift flooding to nearby properties.
+   - Any alignment should be tested with a detailed 2D hydraulic model using the observed overbank pathway, bridge hydraulics, seepage, and likely future flood conditions.
+
+3. **Preserve and expand flood storage near the river**
+   - Keep the open land, trail corridor, and parking areas closest to the river available for intentional inundation rather than adding vulnerable buildings or impermeable development.
+   - Convert portions of Lot 7 and adjacent low ground into flood-compatible landscape: permeable parking, bioswales, flood-tolerant vegetation, and easily removable furnishings.
+   - This will not stop a river flood at this scale, but it can reduce local ponding, debris accumulation, and cleanup damage.
+
+4. **Improve drainage and seepage management behind defenses**
+   - Install or upgrade pump stations, flap gates/check valves, and redundant power for enclosed low areas behind any flood barrier.
+   - Include underseepage monitoring and relief/drainage features; seepage can cause pavement uplift, basement flooding, and barrier instability even where the river is kept out.
+   - Avoid simply enlarging storm drains to the river without backflow control, since high river stages can force water inland.
+
+5. **Strengthen river-corridor monitoring and trigger-based response**
+   - Tie actions to the **USGS 05454500** forecast/stage trend, not only the observed stage. Establish site-specific triggers for:
+     - trail closure,
+     - Lot 7 evacuation,
+     - laboratory asset relocation,
+     - utility shutdown,
+     - road closure,
+     - temporary-barrier deployment.
+   - Use water-level sensors at the laboratory perimeter, parking lot, and West Burlington Street low points to validate modeled thresholds in real time.
+   - Coordinate forecasts and response planning with Iowa City, Johnson County, University of Iowa facilities/emergency management, and upstream reservoir/river managers.
+
+## Recommended planning standard
+
+Given the simulated **~$69.6 million in damage** and nearly **5 m maximum off-channel depth**, design decisions should be based on a flood level at least equivalent to this scenario, with additional freeboard and climate-adjusted uncertainty. The priority should be:
+
+1. life safety and road/trail closure,  
+2. protection of laboratory utilities and irreplaceable assets,  
+3. controlled flood storage in parking/open-space areas, and  
+4. engineered, model-tested perimeter protection for the most critical facilities and access routes.",,,,,,,,,,,,,
+item_0032,"Close West Burlington Street, Lot 7, and the Iowa River Corridor Trail to public access
+Evacuate or restrict access to flooded university hydraulics facilities
+Deploy flood barriers and protect critical equipment and utilities
+Monitor river stage and issue public flood-route advisories
+Keep responders out of deep or fast-moving water and inspect facilities before reopening",,,,,,,,,,,,,
+item_0033,"At the simulated **31.53-ft stage** on the Iowa River at Iowa City (about **1,164 m³/s upstream discharge**), flooding is concentrated along the river margin and has already inundated the **Iowa River Corridor Trail**. The image shows the vulnerable transition zone between the river, trail/riverwalk terraces, pedestrian bridge approaches, and dense downtown/University-area buildings immediately east of the river. Although most building footprints appear dry in this snapshot, the modeled **off-channel depth of up to 3.21 m** means low access routes and below-grade building systems could become hazardous quickly.
+
+### Immediate actions for this event
+- **Close and barricade the Iowa River Corridor Trail and riverside steps/ramps now.** Use hard barriers at all trail access points—not just signs—because fast, deep water and concealed pavement edges are likely along the riverwalk.
+- **Restrict access beneath and adjacent to the pedestrian bridge.** Inspect bridge abutments, trail approaches, retaining walls, and bank protection for scour, debris accumulation, and undermining before reopening.
+- **Create a monitored flood perimeter around low riverfront drives, parking/loading areas, and building entries.** Prioritize entrances facing the river and any lower-level doors, stairwells, service corridors, elevator pits, and garage ramps.
+- **Deploy temporary flood barriers only where they protect critical openings or prevent a direct overland flow path toward buildings.** Install sandbags/water-filled barriers at doors, vents, utility penetrations, and low curbs; do not place them in a way that traps stormwater behind the barrier.
+- **Protect electrical and mechanical systems.** Move portable equipment, records, chemicals, and vehicles from river-adjacent/low areas; isolate lower-level electrical equipment if water threatens; confirm backup-power and sump-pump readiness.
+- **Coordinate warning thresholds using USGS gage 05454500.** Tie closures, barrier deployment, facility inspections, and evacuation/relocation decisions to forecast stage and rate of rise, rather than waiting for water to reach a specific doorway.
+
+### Site-specific permanent mitigation
+1. **Raise or redesign the Iowa River Corridor Trail**
+   - Rebuild the frequently flooded portions as a **flood-tolerant, elevated trail/boardwalk** or raise them where hydraulically feasible.
+   - Use sacrificial/flood-resilient surfacing, removable railings and furnishings, and durable wayfinding that can withstand inundation.
+   - Provide clear high-ground detours through the street and campus/downtown sidewalk network.
+
+2. **Create a river-edge floodable buffer**
+   - Preserve the riverside terraces and open lawn as intentional flood-storage and conveyance space rather than hardening the entire river edge.
+   - Replace vulnerable turf/landscape areas with deep-rooted native riparian vegetation, flood-tolerant trees, and stabilized bioengineered banks to reduce erosion.
+   - Add debris-management zones near bridge approaches so floating material does not block paths, culverts, or drainage inlets.
+
+3. **Protect building interfaces rather than relying on a continuous high wall**
+   - For the large buildings immediately east of the river, use demountable flood panels, raised thresholds, flood doors, sealed wall penetrations, and backflow preventers at vulnerable service areas.
+   - Elevate or dry-floodproof critical HVAC, electrical switchgear, communications equipment, and emergency generators above the modeled flood elevation plus appropriate freeboard.
+   - This targeted approach maintains the public riverfront and avoids pushing floodwater toward other downtown blocks.
+
+4. **Improve drainage behind the riverfront**
+   - Install backflow prevention on storm-sewer outlets to prevent the high river from backing into streets, basements, or plaza drains.
+   - Add pumped or gravity-draining low-point collection where temporary barriers or raised curbs could otherwise retain rainfall.
+   - Maintain inlets and inspect outfalls before high-water periods.
+
+5. **Use flood-compatible streetscape and access design**
+   - Design river-adjacent sidewalks, parking/loading zones, and landscaped areas to tolerate periodic flooding and allow rapid cleanup.
+   - Mark flood depths and closure gates at trail entrances, riverfront crossings, and low points to make operational decisions visible and repeatable.
+   - Maintain at least one dry emergency/service route to the major buildings east of the river during riverfront closure.
+
+### Planning priorities
+Given the estimated **$69.55 million** damage for this modeled event, the highest-value investments are likely:
+1. floodproofing/elevating critical building systems and lower-level openings;
+2. trail and bridge-approach resilience;
+3. storm-sewer backflow control and drainage improvements; and
+4. preserving the riverside open space as a managed floodplain buffer.
+
+Before final design, survey actual ground elevations, basement/utility elevations, storm-sewer connections, and bridge-abutment conditions against the modeled water-surface elevation. The current image indicates that the best strategy is **controlled flooding of the river corridor while preventing water from entering buildings and critical access/utility systems**, rather than attempting to fully exclude the river from the downtown edge.",,,,,,,,,,,,,
+item_0034,"The simulated inundation is still **localized**: only about **0.17% of the view** is flooded, with a modeled maximum off-channel depth of **0.92 m (about 3 ft)**. The main concern is the **C. Maxwell Hydraulics Laboratory**, identified as inundated, rather than widespread roadway or downtown building flooding. Major nearby streets and the bridge approaches appear largely passable at this capture, but floodwater is immediately adjacent to developed riverfront areas and can expand quickly with further stage rise.
+
+### Priority actions for this event
+
+1. **Protect and isolate the C. Maxwell Hydraulics Laboratory**
+   - Deploy **temporary flood barriers** around vulnerable exterior doors, loading/service entrances, low windows, and utility penetrations. For a modeled 0.92 m depth, use a barrier height of at least **1.2–1.5 m**, allowing freeboard for uncertainty, waves, and local flow effects.
+   - Install or verify **backflow prevention** on sanitary, storm, and process-water connections; sewer surcharge can flood a facility even where river water is not visibly overtopping the perimeter.
+   - Move portable equipment, chemicals, records, electrical equipment, and sensitive instruments from ground-level rooms to higher elevations.
+   - Shut down or elevate vulnerable electrical gear, pumps, fuel tanks, HVAC components, and laboratory controls where water could reach them.
+   - Inspect the building after recession for contamination, moisture intrusion, foundation scour, and damage to mechanical systems before reoccupancy.
+
+2. **Establish a river-stage trigger plan**
+   - Use the Iowa River at Iowa City gage (**USGS 05454500**) as the operational trigger, not merely the current **15.95-ft** reading.
+   - At the current stage, begin inspections and pre-stage barriers, pumps, generators, and staff.
+   - Set escalating triggers based on both **stage and rate of rise**: activate barriers and close low facility entrances before the modeled inundation footprint reaches them; evacuate equipment and restrict access if the stage continues to climb or forecast discharge exceeds the current **171 m³/s**.
+   - Recheck forecasts frequently because localized depths near the building can change materially with upstream releases, debris, or backwater conditions.
+
+3. **Keep access routes functional and safe**
+   - Mark and monitor the low river-adjacent road, walkways, parking edges, and service drives near the laboratory.
+   - Close any segment with flowing water, concealed pavement edges, or water approaching vehicle floor height; do not rely on the currently dry appearance of bridge approaches as a guarantee of continued access.
+   - Maintain an alternate access and emergency route away from the river corridor for laboratory staff and first responders.
+
+### Site-specific longer-term mitigation
+
+4. **Create a flood-resilient perimeter at the laboratory**
+   - Where practical, construct a **low floodwall/berm or deployable barrier foundation** around the laboratory’s most exposed river-facing and low-elevation sides.
+   - Avoid a continuous barrier that traps rainfall behind it; pair it with interior drainage, sump capacity, backup power, and flap-gated outfalls.
+   - Grade the site so shallow floodwater and intense rainfall drain away from doors and critical equipment areas.
+
+5. **Harden utilities rather than relying only on barriers**
+   - Raise transformers, switchgear, emergency generators, fuel supply, communications equipment, and HVAC controls above the anticipated design flood elevation.
+   - Seal conduits and wall penetrations; provide watertight doors or removable flood panels at low openings.
+   - Add redundant sump pumps with independent emergency power, since shallow but persistent water can disable a building even without major structural flooding.
+
+6. **Preserve and enhance the river-edge buffer**
+   - Retain the vegetated strip and open space between the road/buildings and the river. This area provides flood storage, slows shallow overland flow, and reduces erosion.
+   - Use native riparian vegetation, erosion-control measures, and bank stabilization where needed, particularly near road embankments and laboratory-adjacent utility corridors.
+   - Do **not** fill floodplain areas or substantially constrict the channel near the bridge; that could shift water levels or velocities toward the laboratory and nearby infrastructure.
+
+7. **Improve local drainage and flood mapping**
+   - Survey the laboratory floor elevations, door thresholds, utility inverts, parking grades, and riverbank elevations against the gage datum.
+   - Validate this simulation’s inundation extent with observed high-water marks during future events, since the image indicates a narrow, asset-specific exposure rather than broad flooding.
+   - Model combined river flooding and storm-drain surcharge; the highest operational risk may occur when high river stage prevents local runoff from discharging.
+
+### Recommended priority order
+
+1. Temporary barriers, utility isolation, equipment relocation, and access control.  
+2. Gage-based response thresholds and monitoring.  
+3. Backflow protection, drainage pumping, and elevation/sealing of critical utilities.  
+4. Permanent deployable perimeter protection and river-edge/erosion improvements.  
+
+Because the current modeled damage is **$0** and inundation is limited, this is an advantageous stage to implement low-cost preparedness measures before the water reaches broader downtown assets or transport corridors.",,,,,,,,,,,,,
+item_0035,"Close inundated streets, trails, parking lots, and the Hancher Footbridge; post barricades and detours.
+Evacuate or protect exposed vehicles and equipment at affected businesses, lots, and university facilities.
+Deploy flood barriers and pumps at threatened building entrances and critical utility access points.
+Issue public flood warnings and prohibit driving or walking through floodwater.
+Monitor Iowa River stage continuously and prepare for further closures or evacuation if levels rise.",,,,,,,,,,,,,

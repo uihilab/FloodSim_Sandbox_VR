@@ -1,0 +1,7 @@
+model,condition,median_data_following_index,mean_data_following_index,noted_conflict
+gpt-4o-mini,K,0.75,0.7817460317460316,0.0
+gpt-4o-mini,PK,1.0,0.9074074074074073,0.0
+gpt-5.6-terra,K,0.6250000000000001,0.5416666666666666,0.022222222222222223
+gpt-5.6-terra,PK,1.0,1.0,0.0
+gpt-6.1-sol,K,1.4999999999999978,1.3302068302068295,0.5444444444444445
+gpt-6.1-sol,PK,1.0,1.0,0.0

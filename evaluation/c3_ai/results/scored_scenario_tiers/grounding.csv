@@ -1,0 +1,5 @@
+condition,n_responses,mean_names,responses_with_unverified_name,unverified_lo,unverified_hi,mean_offscene_names
+A,330,0.015151515151515152,0.0,0.0,0.0,0.015151515151515152
+B,330,0.6545454545454545,0.0,0.0,0.0,0.3787878787878788
+C0,330,0.0,0.0,0.0,0.0,0.0
+C1,330,0.0,0.0,0.0,0.0,0.0

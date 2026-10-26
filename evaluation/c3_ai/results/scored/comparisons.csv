@@ -1,0 +1,20 @@
+comparison,metric,n_scenes,mean_first,mean_second,test,p_value
+A vs B,expected_coverage (scene mean),30,0.4658333333333333,0.5708333333333332,Wilcoxon signed-rank,0.017327816133820406
+A vs C1,expected_coverage (scene mean),30,0.4658333333333333,0.22750000000000004,Wilcoxon signed-rank,4.841334710706782e-05
+C0 vs C1,expected_coverage (scene mean),30,0.17416666666666666,0.22750000000000004,Wilcoxon signed-rank,0.03315666431409824
+A vs B,any_inappropriate (scene mean),33,0.16666666666666666,0.21515151515151518,Wilcoxon signed-rank,0.04168458057771275
+A vs C1,any_inappropriate (scene mean),33,0.16666666666666666,0.03333333333333333,Wilcoxon signed-rank,0.001316608007884298
+C0 vs C1,any_inappropriate (scene mean),33,0.06363636363636364,0.03333333333333333,Wilcoxon signed-rank,0.7958834113364159
+A vs B,n_high_severity (scene mean),33,0.23636363636363636,0.43939393939393945,Wilcoxon signed-rank,0.0005195607449500062
+A vs C1,n_high_severity (scene mean),33,0.23636363636363636,0.1484848484848485,Wilcoxon signed-rank,0.0045901145082283355
+C0 vs C1,n_high_severity (scene mean),33,0.3909090909090909,0.1484848484848485,Wilcoxon signed-rank,0.0007542769153209632
+A vs B,any_unverified (scene mean),33,0.0,0.0,Wilcoxon signed-rank,
+A vs C1,any_unverified (scene mean),33,0.0,0.0,Wilcoxon signed-rank,
+C0 vs C1,any_unverified (scene mean),33,0.0,0.0,Wilcoxon signed-rank,
+A vs B,latency_s (scene mean),33,4.338425151515152,4.255280303030304,Wilcoxon signed-rank,0.3214736534282565
+A vs C1,latency_s (scene mean),33,4.338425151515152,1.9049457575757576,Wilcoxon signed-rank,2.3283064365386963e-10
+C0 vs C1,latency_s (scene mean),33,1.9176739393939393,1.9049457575757576,Wilcoxon signed-rank,0.6591820653993636
+A vs B,completion_tokens (scene mean),33,299.469696969697,300.0,Wilcoxon signed-rank,0.017960477526078766
+A vs C1,completion_tokens (scene mean),33,299.469696969697,44.29090909090909,Wilcoxon signed-rank,5.330235431590946e-07
+C0 vs C1,completion_tokens (scene mean),33,44.830303030303035,44.29090909090909,Wilcoxon signed-rank,0.7799117171773321
+C0 vs C1,modal tier correct (per scene),30,0.06666666666666667,0.03333333333333333,"exact McNemar (b=1, c=0)",1.0

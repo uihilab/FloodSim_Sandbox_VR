@@ -1,0 +1,14 @@
+pair,category,kappa,agreement,n
+keyword vs primary coder,monitor_assess,0.0,0.9888888888888889,180
+keyword vs primary coder,road_closure,0.7938144329896907,0.9555555555555556,180
+keyword vs primary coder,evacuation,0.6858449687048628,0.8388888888888889,180
+keyword vs primary coder,barriers,0.9285714285714286,0.9722222222222222,180
+keyword vs primary coder,pumping,0.9208144796380091,0.9611111111111111,180
+keyword vs primary coder,utilities,0.8043478260869565,0.9277777777777778,180
+keyword vs primary coder,rescue_staging,0.2997542997542998,0.8944444444444445,180
+keyword vs primary coder,drainage,1.0,1.0,180
+keyword vs primary coder,debris,0.6816037735849056,0.85,180
+keyword vs primary coder,shelter,0.06524926686217014,0.5277777777777778,180
+keyword vs primary coder,critical_facilities,0.31335149863760225,0.6111111111111112,180
+keyword vs primary coder,public_comm,0.4713114754098361,0.7611111111111111,180
+keyword vs primary coder,long_term,1.0,1.0,180
